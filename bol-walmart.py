@@ -25,7 +25,6 @@ sales_orders = csv_to_json('daily-data/open_sales_orders.csv')
 
 # Filter sales orders for a specific customer
 sales_orders = filter_orders_by_customer(sales_orders, 'Wal-Mart')
-print(len(sales_orders))
 
 routing_status = csv_to_json('daily-data/routing_status.csv')
 
@@ -80,7 +79,7 @@ folder_name = "walmart-{}".format(today)
 if not os.path.exists(folder_name):
     os.mkdir(folder_name)
 
-
+print("There are {} destinations so should have the same amount of BOL files".format(len(grouped_routing_status_by_dest.keys())))
 for key in grouped_routing_status_by_dest.keys():
     # key = '6054'
     if key in empty_order_po_num_for_dest:
@@ -127,9 +126,10 @@ for key in grouped_routing_status_by_dest.keys():
                         if item.get('Name', '') == sales_order.get('itemJoin_itemId0_searchValue', ''):
                             total_weight_by_po_number += float(sales_order.get('itemJoin_weight0_searchValue', '')) *int(sales_order['basic_quantity0_searchValue'])
         
-            ws['{}{}'.format('D', row)] = rs.get('Cases', '')
+            ws['{}{}'.format('D', row)] = int(rs.get('Cases', ''))
             ws['{}{}'.format('E', row)] = total_weight_by_po_number #rs.get('Weight', '')
             ws['{}{}'.format('G', row)] = rs.get('MABD', '')
+            ws['B1'] = rs.get('MABD', '')
             ws['{}{}'.format('H', row)] = rs.get('PO Dest', '')
             ws['{}{}'.format('I', row)] = rs.get('PO Type', '')
             ws['{}{}'.format('J', row)] = rs.get('Department', '')
