@@ -1,0 +1,937 @@
+Name,Display Name,Type,Class,Is Lot Numbered Item,Inactive,UPC Code,Weight,Item Weight (Kg),Length,Height,Width,Package Quantity,Master Carton Weight (lbs),Master Carton Length (in),Master Carton Width (in),Master Carton Height (in),Master GTIN #,Harmonized Product Code,Manufacturer Country
+ES0001-01,"ANC - MILKFLOW, CAPSULES, 60 COUNT, RETAIL CARTON",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+ES0001-02,"ANC - MILKFLOW, CAPSULES, 100 COUNT, BOTTLE ONLY",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,
+ES0001-03,"ANC - MILKFLOW, CAPSULES, 100 COUNT, RETAIL CARTON",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,US
+ES0003-01,"ANC - MILKFLOW, NON-FENUGREEK CAPSULES, 60 COUNT, RETAIL CARTON, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,US
+ES0005-01,"S&V - UPSPRING, NIPPLE BALM",Inventory Item,Legacy UpSpring : (Old) Breastfeeding,No,Yes,,,,,,,,,,,,,,US
+ES0010-01,"MASTUN - WELLBABY, MULTI, 60M",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+ES0015-01,"MATSUN - WELLBABY, MULTI+IRON, 60ML",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+ES0015-02,"AQUEOUS LABS - WELLBABY, MULTI+IRON, 60ML",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0015-03,"ABS Corp - UpSpringbaby, MULTI+IRON, 60ML",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0020-01,"MATSUN - UPSPRING D3, VITAMIN DROPS, 20ML, 400IU",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+ES0025-01,"VRC - UpSpring baby D3 - SHRINK-WRAP, 2-PACK",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+ES0030-01,"ANC - MILKMULTI POSTNATAL, DRINK MIX, 21 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-01,"ANC - MILKFLOW BERRY DRINK MIX, 18 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-02,"ANC - MILKFLOW CITRUS, DRINK MIX, 18 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-03,"ANC - MILKFLOW CHOCOLATE DRINK MIX, 18 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-04,"ANC - MILKFLOW CHAI TEA LATTE DRINK MIX, SINGLE PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-05,"ANC - MILKFLOW TARGET BERRY DRINK MIX, 18 PACKET, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+ES0035-06,"ANC - MILKFLOW TARGET CHOCOLATE DRINK MIX, 18 PK, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+ES0035-07,"ANC - MILKFLOW BERRY DRINK MIX, 24 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+ES0035-08,"ANC - MILKFLOW BERRY DRINK MIX, SINGLE PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0035-09,"ANC- MILKFLOW CHOCOLATE DRINK MIX, SINGLE PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0037-01,"ANC - MILKFLOW, DRINK MIX, CHAI TEA, 24 SERVINGS",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+ES0037-02,"ANC - MILKFLOW, DRINK MIX, SUGAR FREE BERRY 8OZ, 24 SERVINGS",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0037-03,"ANC - MILKFLOW DRINK MIX SUGAR FREE BERRY 16 OZ, 24 SERVINGS",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0039-01,"ANC - MILKFLOW BERRY + ELECTROLYTES, 16 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+ES0039-02,"ANC - MILKFLOW CHOC + ELECTROLYTES, 16 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+ES0039-03,"ANC - MILKFLOW BERRY + ELECTROLYTES, SINGLE PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+ES0039-04,"ANC - MILKFLOW CHOCOLATE + ELECTROLYTES, SINGLE PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0039-05,"ANC - MILKFLOW, FENUGREEK DRINK MIX, ORANGE MANGO, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+ES0039-06,"ANC - MILKFLOW, FENUGREEK DRINK MIX, CHOCOLATE + ENERGY, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+ES0039-07,"ANC - MILKFLOW BERRY + ELECTROLYTES, 10 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0039-08,"ANC - MILKFLOW CHOC + ELECTROLYTES, 10 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0039-09,"ANC - MILKFLOW ORANGE MANGO + ELECTROLYTES, 10 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0040-01,"VRC - MILKFLOW / MILKMULTI - SHRINK-WRAP, 2-PACK",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+ES0045-01,ARKRAY - 550085 UpSpring Laminated Reels,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,US
+ES0045-02,ARKRAY - AO100 Alcohol Oxidase ( UpSpring Consignment),Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+ES0045-02 - DO NOT USE,ARKRAY - AO100 Alcohol Oxidase ( UpSpring Consignment),Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+ES0050-01,CCI - MSA TEST STRIP CONVERSION,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+ES0055-01,"VRC - MSA, 5-PACK",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+ES0055-02,"VRC - MSA, 8-PACK",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+ES0055-03,"VRC - MSA, 20-PACK",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+ES0060-01,"ACTION_SPORTS - BREAST PILLOW, SMALL & MEDIUM",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+ES0060-02,"ACTION_SPORTS - BREAST PILLOW, LARGE & XLARGE",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+ES0065-01,"HERBALAND - UPSPRING, D3 GUMMY, 90 COUNT",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+ES0065-02,"HERBALAND - UPSPRINGKID, D3 GUMMY, 90 COUNT",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+ES0070-01,"HERBALAND - OMEGA3 & DHA GUMMY, 60 COUNT",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+ES0075-01,"HERBALAND - MILKFLOW GUMMY, 90 COUNT",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+ES0080-01,"BLUE CALIFORNIA - Micro-Encapsulated, Fenugreek 10:1, 12.5%",Inventory Item,,Yes,No,,,,,,,,,,,,,,
+ES0085-01,"ANP - MILKFLOW MAX, 30 CAPSULES, PRODUCTION & PACKAGING",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,No,Yes,,,,,,,,,,,,,,US
+ES0090-01,"ANP - MORNING SICKLESS, 10 CAPSULE / 10 HARD DROP",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+ES0095-01,"S&V - COCONUT OIL, 5OZ, 100% ORGANIC, VIRGIN, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,
+ES0100-01,"HERBALAND - UPSPRING, PRENATAL GUMMY, 90 COUNT",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,CA
+ES0100-02,"HERBALAND - PRENATAL GUMMY, SINGLE, BULK, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,CA
+ES0105-01,"BAI_HOA - CLASSIC WAIST W/SILICONE, S (14”), NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0105-02,"BAI_HOA - CLASSIC WAIST W/SILICONE, M (15”), NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0105-03,"BAI_HOA - CLASSIC WAIST W/SILICONE, L (16”),  NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0105-04,"BAI_HOA - CLASSIC WAIST W/SILICONE, S (14”), BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0105-05,"BAI_HOA - CLASSIC WAIST W/SILICONE, M (15”), BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0105-06,"BAI_HOA - CLASSIC WAIST W/SILICONE, L (16”),  BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-01,"BAI_HOA - HIGH WAIST W/SILICONE, S/M (15”), NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-02,"BAI_HOA - HIGH WAIST W/SILICONE, L/XL (17”), NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-03,"BAI_HOA - HIGH WAIST W/SILICONE, 1X2X (19”), NUDE, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-04,"BAI_HOA - HIGH WAIST W/SILICONE, S/M (15”), BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-05,"BAI_HOA - HIGH WAIST W/SILICONE, L/XL (17”), BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0110-06,"BAI_HOA - HIGH WAIST W/SILICONE, 1X2X (19”), BLACK, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-01,"BAI_HOA - CP, HW W/SILICONE, S/M (15”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-02,"BAI_HOA - CP, HW W/SILICONE, L/XL (17”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-03,"BAI_HOA - CP, HW W/SILICONE, 1X2X (19”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-04,"BAI_HOA - CP, HW W/SILICONE, S/M (15”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-05,"BAI_HOA - CP, HW W/SILICONE, L/XL (17”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0115-06,"BAI_HOA - CP, HW W/SILICONE, 1X2X (19”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-01,"BAI_HOA - PB, HW WO/SILICONE, S/M (15”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-02,"BAI_HOA - PB, HW WO/SILICONE, L/XL (17”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-03,"BAI_HOA - PB, HW WO/SILICONE, 1X2X (19”), NUDE, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-04,"BAI_HOA - PB, HW WO/SILICONE, S/M (15”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-05,"BAI_HOA - PB, HW WO/SILICONE, L/XL (17”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0120-06,"BAI_HOA - PB, HW WO/SILICONE, 1X2X (19”), BLACK, PACKAGED",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+ES0125-01,"CATALENT - STOMACH SETTLE, HERBAL BLEND, LEMON GINGER HARD DROP",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0125-02,"CATALENT - STOMACH SETTLE, PACKAGING LABOR, ALL FLAVORS, 10, 28 AND 55 CT",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,No,,,,,,,,,,,,,,
+ES0125-03,"CATALENT - STOMACH SETTLE, MINT HARD DROP, HERBAL BLEND",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,No,,,,,,,,,,,,,,US
+ES0125-04,"CATALENT - STOMACH SETTLE, LG 28 CT, 6 UP CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,Yes,,,,,,,,,,,,,,US
+ES0125-05,"CATALENT - STOMACH SETTLE, LG 28 CT, 3 UP CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,Yes,,,,,,,,,,,,,,US
+ES0125-06,"CATALENT - STOMACH SETTLE, MINT 28 CT, 6 UP CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,Yes,,,,,,,,,,,,,,US
+ES0125-07,"CATALENT- STOMACH SETTLE, LG 10 CT, 8 UP CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,Yes,,,,,,,,,,,,,,US
+ES0130-01,"KD PHARMA - PRENATAL, SOFT GEL CAPSULE, 30 CNT, 60CC BOTTLE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0135-01,"ANC - PROBIOTIC+COLOSTRUM, 30 STICKS, PRODUCTION & PACKAGING",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0135-02,"ANC - PROBIOTIC+COLOSTRUM, 1 STICK, PRODUCTION & PACKAGING",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0140-01,"HILLSIDE/ANP-SICKLESS/STOMACH SETTLE, HARD DROP, PACKING",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,
+ES0145-01,"ANP - MILKFLOW SHOOTER, 9 BOTTLES / CADDY, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0150-01,"XELAPACK - COCONUT OIL, 5ML STANDARD COUPON, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,US
+ES0155-01,"AQUEOUS LABS - UPSPRING D3, SAMPLE, 1ML, 400IU / DROP",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0160-01,"PHARMA BASE - PROBIOTIC DROPS, 2-10ML BOTTLES+LEAFLET+CARTON",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,CH
+ES0165-01,"MARINE - PRENATAL, SOFT GEL-CAP, 30 COUNT, 60CC HDPE BOTTLE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0165-02,"UNITED PHARMA- PRENATAL, SOFTGEL, SINGLE, BULK, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0170-01,"PARAGON - PRENATAL, TABLET, 30 CNT, 100CC BOTTLE, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0175-01,"ANC - FERTILITY, CAPSULES, 30 CNT, 60CC BOTTLE, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+ES0180-01,"AFP - PRENATAL, GUMMY/CAPSULE, 3/1 CNT, BUMP-BAG, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0185-01,"AFP - SICKLESS, HARD DROP, 2 COUNT, BUMP-BAG, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0190-01,"RICH JOY - BAMBOO, HW PANTY, CO, S/M 25""-30"" X 8"" TALL, GRAY",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0190-02,"RICH JOY - BAMBOO, HW PANTY, CO, L/XL 31""-36"" X 8"" TALL,GRAY",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0195-01,"RICH JOY - BAMBOO, HW BOYSHORT, CO, S/M 25""-30"" X 8"" TALL",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0195-02,"RICH JOY - BAMBOO, HW BOYSHORT, CO, L/XL 31""-36"" X 8"" TALL",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0200-01,"RICH JOY -BAMBOO, NURSING TANK,S/M BUST 32""-36""WAIST 26""-32""",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0200-02,"RICH JOY -BAMBOO, NURSING TANK,L/XL,BUST36""-40""WAIST 30""-36""",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,TW
+ES0205-01,"RICH JOY - SHRINKX BELLY, BAMBOO CHARCOAL, S/M 25""-44""",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,TW
+ES0205-02,"RICH JOY - SHRINKX BELLY, BAMBOO CHARCOAL, L/XL 45""-52""",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,TW
+ES0205-03,"AOFEITE - SHRINKX BELLY, BAMBOO CHARCOAL, S/M 25""-44""",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,No,,,,,,,,,,,,,,CN
+ES0205-04,"AOFEITE - SHRINKX BELLY, BAMBOO CHARCOAL, L/XL 45""-52""",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,No,,,,,,,,,,,,,,CN
+ES0210-01,"AOFEITE- BUMPTUBE, MATERNITY BAND, S/M, BLACK, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,CN
+ES0210-02,"AOFEITE- BUMPTUBE, MATERNITY BAND, L/XL, BLACK, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,CN
+ES0220-01,"ABS - UPSPRING D3, VITAMIN DROPS, 15ML, 400IU",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0220-02,"ABS - UPSPRING D3, MCT-365 SERVINGS, VITAMIN DROPS, 15ML",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0225-01,"UNITED PHARMA - PRENATAL, SOFT GEL, 30 CNT, 60CC WHITE HDPE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0230-01,"ANP - PRENATAL GUMMY, 90 COUNT, 300CC WHITE HDPE BOTTLE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0235-01,"MELODY - MF BAKED COOKIE, 1-SERVING, DOUBLE CHOCOLATE",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0235-02,"MELODY - MF BAKED COOKIE, 1-SERVING, OATMEAL RAISIN",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0235-03,"MELODY - MF BAKED COOKIE, 1-SERVING, OATMEAL SALTED CARAMEL",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0240-01,"HONEYVILLE - MF COOKIE DRY-MIX, 12-SRV'S, DOUBLE CHOCOLATE",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0240-02,"HONEYVILLE - MF COOKIE DRY-MIX, 12-SERVINGS, OATMEAL RAISIN",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0245-01,"VIRUN - OMEGA-3 SMOOTHIE, PEACH MANGO, 1500MG, 160Z, BULK",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0245-02,"VIRUN - OMEGA-3 SMOOTHIE, KEY LIME, 1500MG, 160Z, BULK",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0250-01,"ANC - PUREPLAY, BLESSED THISTLE, CAPSULES, 100 COUNT, 150CC BOTTLE",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0250-04,"ANC - PUREPLAY, GOAT'S RUE, CAPSULES, 60 COUNT, 100CC BOTTLE",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0255-01,"PRIVATE LABEL COFFEE - MILKFLOW COFFEE PODS, 1-SERVING, BULK",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+ES0260-01,"ADH - HENATAL- TABLETS, 90 COUNT, 200CC BOTTLE, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0265-01,"VRC - STOMACH SETTLE - SAMPLE POUCH, 1 DROP PACK, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,
+ES0270-01,"ANC - MILKFLOW COFFEE STICKPACK, 14-SERVING, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+ES0275-01,"ALBANESE - PRENATAL COMPLETE GUMMY, 120 COUNT, 625CC BOTTLE, PRODUCTION",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0280-01,"UNITED PHARMA - PRENATAL, SOFT GEL, 90 CNT, 225CC WHITE HDPE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0285-01,"ANC - MILKFLOW, NON-FENUGREEK DRINK MIX, BLACKBERRY LIME, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+ES0285-02,"ANC - MILKFLOW, NON-FENUGREEK DRINK MIX, BLUEBERRY ACAI, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+ES0285-03,"ANC - MILKFLOW, NON-FENUGREEK DRINK MIX, ELDERBERRY LEMONADE, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+ES0290-01,"SELECTRA - CP, HIGH WAIST W/SILICONE, NUDE - XXS/XS",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0290-02,"SELECTRA - CP, HIGH WAIST W/SILICONE, NUDE - S/M",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0290-03,"SELECTRA - CP, HIGH WAIST W/SILICONE, NUDE - L/XL",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0290-04,"SELECTRA - CP, HIGH WAIST W/SILICONE, BLACK - XXS/XS",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0290-05,"SELECTRA - CP, HIGH WAIST W/SILICONE, BLACK - S/M",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0290-06,"SELECTRA - CP, HIGH WAIST W/SILICONE, BLACK - L/XL",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0295-01,"SELECTRA - CP, HIGH WAIST COMPRESSION ONLY, ALL SIZES/ALL COLORS, RAW",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+ES0300-01,"UNITED PHARMA-PRENATAL COMPLETE, SOFT-GEL CAPSULE, 60 CT, 175CC WHITE HDPE BOTTLE",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+ES0305-01,"ABOX - MILKFLOW BERRY SACHET CARD PROMOTION + LABOR, 4X6, 2 SIDED, SBS 0.10 C2S, 4CP + AQ, GLUE STRIP APPLIED",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+ES0310-01,"ANC - HYDRATION,  DRINK MIX, CITRUS GINGER,14 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0310-02,"ANC - HYDRATION,  DRINK MIX, LEMON LIME, 14 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0310-03,"ANC - HYDRATION,  DRINK MIX, CITRUS GINGER, PRODUCTION & BULK STICK-PACK PACKAGING, CONSIGNMENT BUILD",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0310-04,"ANC - HYDRATION,  DRINK MIX, LEMON LIME, PRODUCTION & BULK STICK-PACK PACKAGING, CONSIGNMENT BUILD",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0315-01,"ANC - FERTILITY EGGS COMPONENTS, RAW INGREDIENTS-ALPHA LIPOIC ACID, GLUTATHIONE, RICE HULLS",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0320-01,"ANC - FERTILITY NEST, COLLAGEN, DRINK MIX, SINGLE SACHET",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+ES0325-01,"ABOX -  HYDRATION, DRINK MIX, AMAZON SAMPLING PROMOTION LABOR & BULK PACKAGING",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,No,,,,,,,,,,,,,,US
+ES0330-01,"A&M LABS - FERTILITY EGGS,  CAPSULES, 60 COUNT, PRODUCTION & BULK PACKAGING, CONSIGNMENT BUILD",Inventory Item,UpSpring : VMS : Adult Supplements : Fertility,No,Yes,,,,,,,,,,,,,,US
+ES0335-01,"SELECTRA - C-PANTY, POST OP MEDICAL, CESAREAN RECOVERY (XS/S), RAW",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+ES0335-02,"SELECTRA - C-PANTY, POST OP MEDICAL, CESAREAN RECOVERY (M/L), RAW",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+ES0335-03,"SELECTRA - C-PANTY, POST OP MEDICAL, CESAREAN RECOVERY (XL/1X), RAW",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+ES0335-04,"SELECTRA - C-PANTY, POST OP MEDICAL, CESAREAN RECOVERY, (2X/3X) RAW",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+ES0340-01,"CATALENT - MILKFLOW CHEW, CHOCOLATE RASPBERRY, 28 COUNT, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,No,No,,,,,,,,,,,,,,US
+ES0340-02,"CATALENT - MILKFLOW CHEW, BERRY, 28 COUNT, PRODUCTION & PACKAGING, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,No,No,,,,,,,,,,,,,,US
+ES0440-01,"CATALENT - STOMACH SETTLE LG HARD DROP 28 CT ORANGE POUCH, 4up MASTER, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,No,,,,,,,,,,,,,,
+ES0440-02,"CATALENT - STOMACH SETTLE MINT HARD DROP 28 CT POUCH, 4up MASTER, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,No,,,,,,,,,,,,,,
+ES0440-03,"CATALENT - STOMACH SETTLE LG HARD DROP 10 CT ORANGE POUCH, 8up MASTER, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,No,,,,,,,,,,,,,,
+ES0440-04,"CATALENT - STOMACH SETTLE MORNING SICKNESS LG HARD DROP 28 CT WHITE POUCH, 4up MASTER, CONSIGNMENT BUILD",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,No,No,,,,,,,,,,,,,,
+FB0001-01,"KIT: MilkFlow, Supplement, 18-Packet, Berry Drink Mix, 2-Pack - FG0070-01 (FBM Orders Only)",Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,855520001651,1.1,,,,,1,,,,,,,
+FB0001-01-FBA,"BUNDLE: MilkFlow, Supplement, 18-Packet, Berry Drink Mix, 2-Pack - FG0070-01 (FBA Packaging Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001651,1.1,,,,,1,1.1,,,,,5423.10.0010,
+FB0001-01a,"MilkFlow, Supplement, 18P, Berry Drink Mix, 2-Pack",Kit/Package,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,855520001651,1.1,,,,,,,,,,,5423.10.0010,
+FB0001-02,"KIT: MilkFlow, Supplement, 18P, Chocolate Drink Mix, 2-Pack - FG0070-03 (FBM Orders Only)",Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,855520001194,1.5,,,,,1,,,,,,,
+FB0001-02-FBA,"BUNDLE: MilkFlow, Supplement, 18P, Chocolate Drink Mix, 2-Pack - FG0070-03 (FBA Packaging Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001194,1.5,,9.2,9.2,6.2,1,,,,,,5423.10.0010,
+FB0001-02a,"MilkFlow, Supplement, 18P, Chocolate Drink Mix, 2-Pack",Kit/Package,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,855520001194,0,,,,,,,,,,,5423.10.0010,
+FB0001-03,"KIT: MilkFlow, Supplement, 18P, Berry - FG0070-01 & Chocolate Drink Mix - FG0070-03, 2-Pack (FBM Orders Only)",Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,859188006904,1.3,,,,,1,,,,,,,
+FB0001-03-FBA,"BUNDLE: MilkFlow, Supplement, 18P, Berry - FG0070-01 & Chocolate Drink Mix - FG0070-03, 2-Pack (FBA Packaging Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006904,1.3,,9.2,9.2,6.2,1,,,,,,5423.10.0010,
+FB0005-01,"MilkMulti, Postnatal Vitamin, 21P, Orange Drink Mix, 2-Pack",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001668,1.1,,,,,,,,,,,5423.10.0010,
+FB0005-01a,"MilkMulti, Postnatal Vitamin, 21P, Orange Drink Mix, 2-Pack",Kit/Package,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,855520001668,1.1,,,,,,,,,,,5423.10.0010,
+FB0010-01,"Bundle: UpSring Baby, D3, 2-Pack",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001866,.33,,,,,1,,,,,,,
+FB0010-01a,"Wellbaby, D3, 2-Pack",Kit/Package,Legacy UpSpring : (Old) Child Supplements,No,Yes,855520001866,.33,,,,,,,,,,,,
+FB0015-01,"Milkflow, Fenugreek, Shooter, 2oz Bottle, Chocolate, 9-Pak",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006164,.33,,,,,,,,,,,,US
+FB0020-01,"Bundle: UpSpring, Nipple Balm, 2-Pack",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breastfeeding,Yes,Yes,859188006478,.42,,2.7,4.5,4,1,.45,,,,,,
+FB0025-01,"Bundle: UpSpring, Bamboo High-Waist Boyshort, 4-SM & 2-LXL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006546,2.5,,7.25,5.5,10.25,1,2.5,7.25,10.25,5.5,,,
+FB0025-01(OLD),"Bundle: UpSpring, Bamboo High-Waist Boy Shorts, 4-SM & 2-LXL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,Yes,Yes,859188006546,2.5,,7.25,5.5,10.25,,2.5,,,,,,
+FB0030-01,"Bundle: UpSpring, BumpTube, Maternity Band, 4-SM & 2-LXL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,No,Yes,859188006553,1.5,,7.25,5.5,10.25,1,1.5,7.25,10.25,5.5,,,
+FB0030-01(OLD,"Bundle: UpSpring, BumpTube, Maternity Band, 4-SM & 2-LXL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,859188006553,1.5,,7.25,5.5,10.25,,1.5,,,,,,
+FB0035-01,"Bundle: UpSpring, Coconut Oil, 2-Pack",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,859188006591,1.05,,2.7,4.5,4,1,.45,,,,,,
+FB0040-01,"Bundle: UpSpring, Milkflow Capsules, 100 Cnt, Bottle, 2-Pack",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006744,1.05,,2.7,4.5,4,1,.45,,,,,,
+FB0040-02,"KIT UpSpring, Milkflow Capsules, 100 Count, Bottle Only, 2-Pack - FG0120-03 (FBM Orders Only)",Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,859188006911,.28,,,,,1,,,,,,,
+FB0040-02-FBA,"BUNDLE: UpSpring, Milkflow Capsules, 100 Count, Bottle Only, 2-Pack - FG0120-03 (FBA Packaging Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006911,1.05,,2.7,4.5,4,1,.45,,,,,,
+FB0045-01,"Bundle: MF, Cookie, Display Tray, Double Chocolate",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,10859188006659,1,,,,,2,2.15,9.25,7.25,5.75,40855520001475,2106.90.9887,
+FB0045-02,"Bundle: MF, Cookie, Display Tray, Oatmeal Raisin",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,10859188006666,1,,,,,2,2.15,9.25,7.25,5.75,40855520001475,2106.90.9887,
+FB0050-01,"Bundle: MF 18P, Chocolate, 2Pk & UpSpring Shaker Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006775,2.1,,2.7,4.5,4,1,.45,,,,,,
+FB0060-01,"KIT: Stomach Settle, Lemon Ginger, 28 Count, 2-Pack (FBM Orders Only)",Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,859188006966,.28,,,,,1,,,,,,,
+FB0060-01-FBA,"Bundle: Stomach Settle, Lemon Ginger, 28 Count, 2-Pack (FBA ONLY)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006966,.55,,,,,1,.76,,,,,,
+FB0065-01,"Bundle: SBBC, S/M & SHX Hips, Black, XS/S",Assembly/Bill of Materials,,No,Yes,850008560026,1.47,,,,,,,,,,,,
+FB0075-01,FB0075-01 Trimester Bundle: Prenatal Complete 3pk,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,1.05,,,,,1,,,,,,,
+FB0075-02,Bundle: Prenatal Complete 3pk / Dual Prenatal Immunity 3pk,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,1.46,,,,,1,,,,,,,
+FB0080-01,Bundle: Breastfeeding Starter Pack,Kit/Package,,No,Yes,,1.01,,,,,1,,,,,,,
+FB0085-01,Bundle: Fertility / Henatal / Prenatal Complete,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,850008560132,.89,,,,,1,,,,,,,
+FB0090-01,Bundle: Fertility / HeNatal,Kit/Package,,No,Yes,850008560354,.54,,,,,,,,,,,,
+FB0095-01,Bundle: Prenatal Complete / Prenatal Immunity,Kit/Package,,No,Yes,850008560361,.49,,,,,,,,,,,,
+FB0100-01,Bundle: Vitamin D3 / Probiotics + Colostrum,Kit/Package,,No,Yes,850008560378,.19,,,,,,,,,,,,
+FB0105-01,Bundle: Milkscreen / Drink Mix Berry,Kit/Package,,No,No,850008560385,.56,,,,,,,,,,,,
+FB0110-01,Bundle: Milkscreen / Drink Mix Choc,Kit/Package,,No,No,850008560392,.71,,,,,,,,,,,,
+FB0115-01,KIT: Trimester Bundle 2,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,.49,,,,,1,,,,,,,
+FB0120-01,KIT: Breastfeeding Pack 2,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,,1.15,,,,,1,,,,,,,
+FB0125-01,KIT: Baby Shower Bundle,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,.75,,,,,1,,,,,,,
+FB0125-02,KIT: Baby Shower Bundle,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,No,,.75,,,,,1,,,,,,,
+FB0130-01,KIT: TTC Bundle 2,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,850008560149,.49,,,,,1,,,,,,,
+FB0135-01,KIT: Trimester Bundle 3,Kit/Package,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,.98,,,,,1,,,,,,,
+FB0140-01,Bundle: Walking Wings / Milkflow Electrolyte Chocolate 16ct / Milkscreen 20,Kit/Package,,No,No,850008560521,1.32,,,,,,,,,,,,
+FB0145-01,Bundle: Postnatal Immunity / Immunity Foundation + D3 Drops / Shrinkx Belly Bamboo (S/M)  / Milkscreen 20,Kit/Package,,No,Yes,850008560538,1.22,,,,,,,,,,,,
+FB0145-02,Bundle: Postnatal Immunity / Immunity Foundation + D3 Drops / Shrinkx Belly Bamboo (L/XL) / Milkscreen 20,Kit/Package,,No,Yes,850008560545,1.07,,,,,,,,,,,,
+FB0150-01,Bundle: Postnatal Immunity / Milkflow Capsules 60 Cnt,Kit/Package,,No,Yes,850008560552,.28,,,,,,,,,,,,
+FB0155-01,Bundle: (x3) Prenatal Complete / (x3) Dual Prenatal Immunity / Stomach Settle Morning Sickness LG 28Ct,Kit/Package,,No,Yes,850008560569,1.6,,,,,,,,,,,,
+FB0160-01,Bundle: MF Drink Mix Blk Berry Lime / Shaker Bottle,Kit/Package,,No,No,850008560576,.8,,,,,,,,,,,,
+FB0165-01,Bundle: Probiotic + Colostrum / Immunity Foundation Drops,Kit/Package,,No,Yes,850008560583,.1,,,,,,,,,,,,
+FB0170-01,Bundle: Shrinkx Hips Ultra V.3 (XS/S) Black / C-Panty High Waist (S/M) Black,Kit/Package,,No,No,850008560590,.92,,,,,,,,,,,,
+FB0170-02,Bundle: Shrinkx Hips Ultra V.3 (M/L) Black / C- Panty High Waist (L/XL) Black,Kit/Package,,No,No,850008560606,1.05,,,,,,,,,,,,
+FB0175-01,"Bundle: Post Baby High Waist (S/M) Black / Shrinkx Belly Bamboo, (S/M) Black",Kit/Package,,No,No,850008560613,1.04,,,,,,,,,,,,
+FB0175-02,"Bundle: Post Baby High Waist (L/XL) Black / Shrinkx Belly Bamboo, (L/XL) Black",Kit/Package,,No,No,850008560620,.92,,,,,,,,,,,,
+FB0180-01,Bundle: (x3) Dual Prenatal Immunity,Kit/Package,,No,Yes,850008560637,.41,,,,,,,,,,,,
+FB0185-01,Bundle: (x3) Prenatal Complete,Kit/Package,,No,Yes,850008560644,1.05,,,,,,,,,,,,
+FB0190-01,"Bundle: Milkflow Drink Mix, Fenugreek, Berry / Milkflow Drink Mix, Fenugreek, Chocolate / Dual Postnatal Immunity",Kit/Package,,No,Yes,850008560651,1.29,,,,,,,,,,,,
+FB0195-01,Bundle: (x2) Stomach Settle Morning Sickness 28 Ct / Dual Prenatal Immunity,Kit/Package,,No,Yes,850008560668,.41,,,,,,,,,,,,
+FB0200-01,KIT: (x3) Stomach Settle LGH 10ct (FG0300-03),Kit/Package,,No,No,,.3,,,,,,,,,,,,
+FB0200-02,KIT: (x3) Stomach Settle Morning Sickness LGH 10ct (FG0300-07),Kit/Package,,No,Yes,850008560743,.3,,,,,,,,,,,,
+FB0200-03,"KIT: (x2) Stomach Settle, Mint Drops, 28 Ct (FG0300-04)",Kit/Package,Legacy UpSpring,No,No,,.28,,,,,,,,,,,,
+FB0200-04,"KIT: Stomach Settle, LG Drops, 28 Ct (FG0300-01), Stomach Settle, Mint Drops, 28 Ct (FG0300-04)",Kit/Package,Legacy UpSpring,No,No,,.28,,,,,,,,,,,,
+FB0205-01,Mighty Mom Birth Bundle S/M,Kit/Package,,No,Yes,,2.19,,,,,,,,,,,,
+FB0205-02,Mighty Mom Birth Bundle L/XL,Kit/Package,,No,Yes,,2.04,,,,,,,,,,,,
+FB0210-01,Fertility Kickstart Bundle - (x3) Fertility (FG0245-01),Kit/Package,,No,Yes,,.41,,,,,,,,,,,,
+FB0215-01,"New Mom Healing Bundle S/M - Shrinkx Belly Charcoal Wrap (S/M, FG0220-01), C-Panty High Waist (S/M) Nude (FG0030-01)",Kit/Package,,No,No,,1.05,,,,,,,,,,,,
+FB0215-02,"New Mom Healing Bundle L/XL - Shrinkx Belly Charcoal Wrap (L/XL, FG0220-02), C-Panty High Waist (L/XL) Nude (FG0030-02)",Kit/Package,,No,No,,.92,,,,,,,,,,,,
+FB0215-03,"New Mom Healing Bundle 1X/2X - Shrinkx Belly Charcoal Wrap (L/XL, FG0220-02), C-Panty High Waist (1X/2X) Nude (FG0030-03)",Kit/Package,,No,No,,.95,,,,,,,,,,,,
+FB0220-02,"BUNDLE: (x2) Stomach Settle Mint, 28 ct",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Stomach Settle,Yes,No,850008560965,.28,,,,,1,20.9,22,15,9,20850008560969,,US
+FB0225-01,"BUNDLE: (x2) Milkflow, Fenugreek Free, 16pk, Drink Mix, Blackberry Lime",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,859188006843,,,8,4.5,6,1,16.2,24,16,10,10850008560863,,US
+FB0225-02,"BUNDLE: (x2) Milkflow, Fenugreek Free, 16pk, Drink Mix, Elderberry Lemonade",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560507,0,,8,4.5,6,1,16.2,24,16,10,10850008560733,,US
+FB0225-03,"BUNDLE: Milkflow, Fenugreek Free, 16pk, Drink Mix, Blackberry Lime + Milkflow, Fenugreek Free, 16pk, Drink Mix, Elderberry Lemonade",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560941,.5,,8,4.5,6,1,16.2,24,16,10,10850008560948,,US
+FG0001-01,Walking Wings - Blue,Inventory Item,Legacy UpSpring : (Old) Walking Wings,No,Yes,855520001019,.571,,,,,6,4.771,18.75,11.25,8.5,10855520001016,6307.90.9889,CN
+FG0001-02,Walking Wings - Pink,Inventory Item,Legacy UpSpring : (Old) Walking Wings,No,Yes,855520001040,.571,,,,,6,4.771,18.75,11.25,8.5,10855520001040,6307.90.9889,CN
+FG0001-03,Walking Wings - Gray,Inventory Item,Legacy UpSpring : (Old) Walking Wings,No,Yes,855520001453,.571,,,,,6,4.771,18.75,11.25,8.5,10855520001450,6307.90.9889,CN
+FG0002-01,Walking Wings - Blue (English/French),Inventory Item,Legacy UpSpring : (Old) Walking Wings,No,Yes,855520001460,.571,,,,,6,4.771,18.75,11.25,8.5,10855520001467,6307.90.9889,CN
+FG0005-01,Milkscreen Alcohol 5-Pack,Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001286,.055,,2.75,4.5,1.5,6,0.4035,9.375,4.75,3,10855520001283,3822.00.0000,US
+FG0005-02,Milkscreen Alcohol 8-Pack,Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,No,855520001071,.0645,,2.75,4.5,1.5,6,0.602,9.375,4.75,3,10855520001078,3822.00.0000,US
+FG0005-03,Milkscreen Alcohol 20-Pack,Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,No,855520001088,.1015,,2.75,4.5,1.5,6,0.825,9.375,4.75,3,10855520001085,3822.00.0000,US
+FG0005-04,Milkscreen Alcohol 5-Pack (3-Up Master Carton),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001286,.055,,2.75,4.5,1.5,3,0.41,9.375,4.75,3,40855520001284,3822.00.0000,
+FG0006-01,Milkscreen Alcohol 8-Pack (French/English),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001439,.0645,,2.75,4.5,1.5,6,0.602,9.375,4.75,3,,3822.00.0000,
+FG0006-02,Milkscreen Alcohol 20-Pack (French/English),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001446,.1015,,2.75,4.5,1.5,6,0.825,9.375,4.75,3,,3822.00.0000,
+FG0007-01,Milkscreen Alcohol 8-Pack (German),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001743,.0645,,2.75,4.5,1.5,6,0.602,9.375,4.75,3,,3822.00.0000,
+FG0007-02,Milkscreen Alcohol 20-Pack (German),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,855520001750,.1015,,2.75,4.5,1.5,6,0.825,9.375,4.75,3,,3822.00.0000,
+FG0008-01,"Milkscreen Alcohol 30-Pack, No-Tab",Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,No,859188006379,.1015,,4.5,1.5,2.75,6,0.8,5.25,9.5,3.75,,3822.00.0000,
+FG0015-01,Shrinkx Hips Basic - Retail Box,Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,855520001255,.611,,,,,5,3.63,10.375,7.75,10.875,855520001255,6307.90.9889,
+FG0020-01,Shrinkx Hips Ultra (XS/S) Nude - Retail Box,Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,855520001002,.7,,11.25,2,7,5,4.45,12.5,7.5,11,30855520001003,6307.90.9889,CN
+FG0020-02,Shrinkx Hips Ultra (M/L) Nude - Retail Box,Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,855520001248,.788,,11.25,2,7,5,5.019,12.5,7.5,11,30855520001249,6307.90.9889,CN
+FG0020-03,Shrinkx Hips Ultra V.3 (XS/S) Black - Retail Box,Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,855520001552,.673,,11.25,2,7,5,4.45,12.5,7.5,11,10855520001559,6307.90.9889,CN
+FG0020-04,Shrinkx Hips Ultra V.3 (M/L) Black - Retail Box,Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,855520001576,.788,,11.25,2,7,5,5.019,12.5,7.5,11,10855520001573,6307.90.9889,CN
+FG0022-53-IG,"Shrinkx Hips Ultra (XS/S), Black, Poly Bag, Italian / German (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,1230000073004,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0022-53-ML,"Shrinkx Hips Ultra (XS/S), Black, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,5065009337194,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0022-54-IG,"Shrinkx Hips Ultra (M/L), Black, Poly Bag, Italian / German (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,1230000073011,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0022-54-ML,"Shrinkx Hips Ultra (M/L), Black, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,5065009337200,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0025-01,C-Panty Classic Waist (S) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002007,.159,,6.75,1,4.5,1,0.159,8,6,4,,6212.90.0030,CN
+FG0025-02,C-Panty Classic Waist (M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002021,.17,,6.75,1,4.5,1,0.17,8,6,4,,6212.90.0030,CN
+FG0025-03,C-Panty Classic Waist (L) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002045,.179,,6.75,1,4.5,1,0.179,8,6,4,,6212.90.0030,CN
+FG0025-04,C-Panty Classic Waist (S) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002144,.159,,6.75,1,4.5,1,0.159,8,6,4,,6212.90.0030,CN
+FG0025-05,C-Panty Classic Waist (M) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002137,.17,,6.75,1,4.5,1,0.17,8,6,4,,6212.90.0030,CN
+FG0025-06,C-Panty Classic Waist (L) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002151,.179,,6.75,1,4.5,1,0.179,8,6,4,,6212.90.0030,CN
+FG0030-01,C-Panty High Waist (S/M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002090,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-02,C-Panty High Waist (L/XL) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002113,.266,,6.75,1,4.5,3,0.266,8,6,4,10896785002110,6212.90.0030,CN
+FG0030-03,C-Panty High Waist (1X/2X) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002397,.298,,6.75,1.5,4.75,3,0.298,8,6,4,10896785002394,6212.90.0030,CN
+FG0030-04,C-Panty High Waist (S/M) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002106,.248,,6.75,1,4.5,3,0.248,8,6,4,10896785002103,6212.90.0030,CN
+FG0030-05,C-Panty High Waist (L/XL) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002120,.266,,6.75,1,4.5,3,0.266,8,6,4,10896785002127,6212.90.0030,CN
+FG0030-06,C-Panty High Waist (1X/2X) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002403,.298,,6.75,1.5,4.75,3,0.298,8,6,4,10896785002400,6212.90.0030,CN
+FG0030-51-IG,"C-Panty High Waist (S/M) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073028,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-51-ML,"C-Panty High Waist (S/M) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337002,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-52-IG,"C-Panty High Waist (L/XL) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073035,.266,,6.75,1,4.5,3,0.266,8,6,4,10896785002110,6212.90.0030,CN
+FG0030-52-ML,"C-Panty High Waist (L/XL) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337019,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-53-IG,"C-Panty High Waist (XXL/XXXL) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073042,.298,,6.75,1.5,4.75,3,0.298,8,6,4,10896785002394,6212.90.0030,CN
+FG0030-53-ML,"C-Panty High Waist (1X/2X) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337026,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-54-IG,"C-Panty High Waist (S/M) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073059,.248,,6.75,1,4.5,3,0.248,8,6,4,10896785002103,6212.90.0030,CN
+FG0030-54-ML,"C-Panty High Waist (S/M) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337033,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-55-IG,"C-Panty High Waist (L/XL) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073066,.266,,6.75,1,4.5,3,0.266,8,6,4,10896785002127,6212.90.0030,CN
+FG0030-55-ML,"C-Panty High Waist (L/XL) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337040,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0030-56-IG,"C-Panty High Waist (XXL/XXXL) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073172,.266,,6.75,1,4.5,3,0.266,8,6,4,,6212.90.0030,CN
+FG0030-56-ML,"C-Panty High Waist (1X/2X) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337057,.248,,6.75,1,4.5,3,0.75,8,6,4,10896785002097,6212.90.0030,CN
+FG0035-01,Post Baby High Waist (S/M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002250,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002257,6212.90.0030,CN
+FG0035-02,Post Baby High Waist (L/XL) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002274,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002271,6212.90.0030,CN
+FG0035-03,Post Baby High Waist (1X/2X) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002410,.282,,6.75,1.5,4.75,3,0.282,8,6,4,10896785002417,6212.90.0030,CN
+FG0035-04,Post Baby High Waist (S/M) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002267,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002264,6212.90.0030,CN
+FG0035-05,Post Baby High Waist (L/XL) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002281,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002288,6212.90.0030,CN
+FG0035-06,Post Baby High Waist (1X/2X) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002427,.282,,6.75,1.5,4.75,3,0.282,8,6,4,10896785002424,6212.90.0030,CN
+FG0035-51-IG,"Post Baby High Waist (S/M) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073073,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002257,6212.90.0030,CN
+FG0035-51-ML,"Post Baby High Waist (S/M) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337064,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002257,6212.90.0030,CN
+FG0035-52-IG,"Post Baby High Waist (L/XL) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073080,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002271,6212.90.0030,CN
+FG0035-52-ML,"Post Baby High Waist (L/XL) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337071,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002271,6212.90.0030,CN
+FG0035-53-IG,"Post Baby High Waist (XXL/XXXL) Nude, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073189,.282,,6.75,1.5,4.75,3,0.266,8,6,4,,6212.90.0030,CN
+FG0035-53-ML,"Post Baby High Waist (1X/2X) Nude, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337088,.282,,6.75,1.5,4.75,3,0.266,8,6,4,,6212.90.0030,CN
+FG0035-54-IG,"Post Baby High Waist (S/M) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073097,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002264,6212.90.0030,CN
+FG0035-54-ML,"Post Baby High Waist (S/M) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337095,.239,,6.75,1,4.5,3,0.239,8,6,4,10896785002264,6212.90.0030,CN
+FG0035-55-IG,"Post Baby High Waist (L/XL) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073103,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002288,6212.90.0030,CN
+FG0035-55-ML,"Post Baby High Waist (L/XL) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337101,.268,,6.75,1,4.5,3,0.268,8,6,4,10896785002288,6212.90.0030,CN
+FG0035-56-IG,"Post Baby High Waist (XXL/XXXL) Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073196,.282,,6.75,1.5,4.75,3,0.266,8,6,4,,6212.90.0030,CN
+FG0035-56-ML,"Post Baby High Waist (1X/2X) Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337118,.282,,6.75,1.5,4.75,3,0.266,8,6,4,,6212.90.0030,CN
+FG0040-01,C-Panty Classic Waist 2-Pack (S) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002373,.263,,6.75,2,4.5,1,0.263,8,6,4,,6212.90.0030,CN
+FG0040-02,C-Panty Classic Waist 2-Pack (M) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002380,.28,,6.75,2,4.5,1,0.28,8,6,4,,6212.90.0030,CN
+FG0040-03,C-Panty Classic Waist 2-Pack (L) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002366,.296,,6.75,2,4.5,1,0.296,8,6,4,,6212.90.0030,CN
+FG0045-01,C-Panty Starter-Pack (S) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002298,.349,,6.75,2,4.75,1,0.349,8,6,4,,6212.90.0030,CN
+FG0045-02,C-Panty Starter-Pack (M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002304,.354,,6.75,2,4.75,1,0.354,8,6,4,,6212.90.0030,CN
+FG0045-03,C-Panty Starter-Pack (L) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002311,.394,,6.75,2,4.75,1,0.394,8,6,4,,6212.90.0030,CN
+FG0050-01,POP Classic Waist (XS/S) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001170,.15,,6.75,1,4.5,1,0.15,8,6,4,,6212.90.0030,CN
+FG0050-02,POP Classic Waist (M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001187,.167,,6.75,1,4.5,1,0.167,8,6,4,,6212.90.0030,CN
+FG0050-03,POP Classic Waist (L/XL) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001262,.175,,6.75,1,4.5,1,0.175,8,6,4,,6212.90.0030,CN
+FG0055-01,POP High Waist w/Silicone (S/M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001118,.248,,6.75,1,4.5,1,0.248,8,6,4,,6212.90.0030,CN
+FG0055-02,POP High Waist w/Silicone (L/XL) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001095,.263,,6.75,1,4.5,1,0.263,8,6,4,,6212.90.0030,CN
+FG0055-03,POP High Waist w/Silicone (1X/2X) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001507,.299,,6.75,1.5,4.75,1,0.299,8,6,4,,6212.90.0030,CN
+FG0055-04,POP High Waist w/Silicone (S/M) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001101,.248,,6.75,1,4.5,1,0.248,8,6,4,,6212.90.0030,CN
+FG0055-05,POP High Waist w/Silicone (L/XL) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001125,.263,,6.75,1,4.5,1,0.263,8,6,4,,6212.90.0030,CN
+FG0055-06,POP High Waist w/Silicone (1X/2X) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001514,.299,,6.75,1.5,4.75,1,0.299,8,6,4,,6212.90.0030,CN
+FG0060-01,POP High Waist Compression (S/M) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001163,.242,,6.75,1,4.5,3,0.242,8,6,4,,6212.90.0030,CN
+FG0060-02,POP High Waist Compression (L/XL) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001156,.267,,6.75,1,4.5,3,0.267,8,6,4,,6212.90.0030,CN
+FG0060-03,POP High Waist Compression (1X/2X) Nude,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001521,.296,,6.75,1.5,4.75,3,0.296,8,6,4,,6212.90.0030,CN
+FG0060-04,POP High Waist Compression (S/M) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001279,.242,,6.75,1,4.5,3,0.242,8,6,4,,6212.90.0030,CN
+FG0060-05,POP High Waist Compression (L/XL) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001361,.267,,6.75,1,4.5,3,0.267,8,6,4,,6212.90.0030,CN
+FG0060-06,POP High Waist Compression (1X/2X) Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,855520001538,.296,,6.75,1.5,4.75,3,0.296,8,6,4,,6212.90.0030,CN
+FG0065-01,C-Panty High Waist 2-Pack (S/M) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002434,.438,,6.75,2,4.75,1,0.438,8,6,4,,6212.90.0030,CN
+FG0065-02,C-Panty High Waist 2-Pack (L/XL) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,896785002441,.488,,6.75,2,4.75,1,0.488,8,6,4,,6212.90.0030,CN
+FG0065-03,C-Panty High Waist 2-Pack (1X/2X) Nude/Black,Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,896785002458,.551,,6.75,2,4.75,1,,8,6,4,,6212.90.0030,CN
+FG0065-51-IG,"C-Panty High Waist 2-Pack (S/M) Nude/Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073110,.438,,6.75,2,4.75,1,0.438,8,6,4,,6212.90.0030,CN
+FG0065-51-ML,"C-Panty High Waist 2-Pack (S/M) Nude/Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337125,.438,,6.75,2,4.75,1,0.438,8,6,4,,6212.90.0030,CN
+FG0065-52-IG,"C-Panty High Waist 2-Pack (L/XL) Nude/Black, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,1230000073127,.488,,6.75,2,4.75,1,0.488,8,6,4,,6212.90.0030,CN
+FG0065-52-ML,"C-Panty High Waist 2-Pack (L/XL) Nude/Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337132,.488,,6.75,2,4.75,1,0.488,8,6,4,,6212.90.0030,CN
+FG0065-53-ML,"C-Panty High Waist 2-Pack (1X/2X) Nude/Black, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,5065009337149,.488,,6.75,2,4.75,1,0.488,8,6,4,,6212.90.0030,CN
+FG0066-01,Shrinkx Belly (S/M) Nude - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001378,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-02,Shrinkx Belly (L/XL) Nude - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001385,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-03,Shrinkx Belly (S/M) Black - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001392,.503,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-04,Shrinkx Belly (L/XL) Black - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001415,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-05,UpSpring Faja (S/M) Nude - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001026,.579,,11.75,1.25,8.25,1,28.15,24,16,10,,6307.90.9889,CN
+FG0066-06,UpSpring Faja (L/XL) Nude - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001033,.579,,11.75,1.25,8.25,1,29,24,16,10,,6307.90.9889,CN
+FG0066-07,UpSpring Faja (S/M) Black - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001217,.579,,11.75,1.25,8.25,1,28.15,24,16,10,,6307.90.9889,CN
+FG0066-08,UpSpring Faja (L/XL) Black - Poly Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,855520001316,.579,,11.75,1.25,8.25,1,29,24,16,10,,6307.90.9889,CN
+FG0066-51-IG,"Shrinkx Belly (S/M), Nude, Poly Bag, Italian / German (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,1230000073134,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-51-ML,"Shrinkx Belly (S/M), Nude, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,5065009337156,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-52-IG,"Shrinkx Belly (L/XL), Nude, Poly Bag, Italian / German (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,1230000073141,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0066-52-ML,"Shrinkx Belly (L/XL), Nude, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,5065009337163,.579,,11.75,1.25,8.25,1,0.579,11.75,8.25,1.25,,6307.90.9889,CN
+FG0067-01,Shrinkx Belly (S/M) Nude - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,855520001354,.671,,10,2,7,5,3.75,12.5,11,7.5,10855520001351,6307.90.9889,CN
+FG0067-02,Shrinkx Belly (L/XL) Nude - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,855520001347,.746,,10,2,7,5,4.25,12.5,7.5,11,10855520001344,6307.90.9889,CN
+FG0067-03,Shrinkx Belly (S/M) Black - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,855520001408,.671,,10,2,7,5,3.75,12.5,7.5,11,10855520001405,6307.90.9889,CN
+FG0067-04,Shrinkx Belly (L/XL) Black - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,855520001422,.746,,10,2,7,5,4.25,12.5,7.5,11,10855520001429,6307.90.9889,CN
+FG0070-01,"Milkflow, Supplement, 18-Pack, Berry, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,855520001477,.551,,4.6,4.6,3.1,6,3.85,10,10,5,40855520001475,2106.90.9887,US
+FG0070-03,"Milkflow, Supplement, 18-Pack, Chocolate, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,855520001903,.75,,4.6,4.6,3.1,6,4.5,10,10,5,40855520001901,2106.90.9887,US
+FG0070-04,"Milkflow, Supplement, 18-Pack, Citrus, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001880,.551,,,,,,,,,,30855520001881,2106.90.9887,
+FG0070-06,"Milkflow, Supplement, 18-Pack, Berry-TARGET ONLY, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006300,.551,,4.6,4.6,3.1,6,3.85,10,10,5,10859188006307,2106.90.9887,
+FG0070-08,"Milkflow, Supplement, 18-Pk, Chocolate-TARGET ONLY,Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006461,.75,,4.6,4.6,3.1,6,5.05,10,10,5,10859188006468,2106.90.9887,
+FG0070-09,"Milkflow, Supplement, 24-Pack, Berry, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006638,.7,,4.6,4.6,3.1,6,,,,,10859188006307,2106.90.9887,US
+FG0072-01,"Milkflow, Drink Mix, Chai Tea, Supplement, 24 Servings, 16oz",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001064,1,,3.75,4,3.75,6,6.0,11,8,4,10855520001061,2106.90.9887,US
+FG0072-02,"Milkflow, Drink Mix, SugarFree Berry, 24 Serving, 8oz",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006485,1,,3,3.25,3,6,,,,,,2106.90.9887,US
+FG0072-03,"Milkflow, Drink Mix, SugarFree Berry, 24 Serving, 8.5oz",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,859188006720,.65,,3.75,4,3.75,6,4.3,11,8,4,10859188006727,2106.90.9887,US
+FG0074-01,"MilkFlow, Fenugreek Free, 16pk, Drink Mix, Blackberry Lime",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560088,.5,,4.6,4.6,3.1,6,3.5,10.25,10.25,5.75,10850008560085,2106.90.9887,US
+FG0074-02,"MilkFlow, Blueberry Acai, Fenugreek Free 16pk, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560873,.5,,3.16,6.125,4.625,4,2.5,10.25,10.25,4.75,10850008560870,2106.90.9887,US
+FG0074-04,"Milkflow, Fenugreek Free, 16pk, Drink Mix, Elderberry Lemonade, (Immunity)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560897,0,,3.16,6.125,4.625,4,,10.25,10.25,4.75,10850008560894,2106.90.9887,US
+FG0075-01,"MilkMulti, Postnatal Vitamin Supplement (21-Pack) Orange Dri",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,855520001484,.551,,,,,,8.5,20.625,6,10.25,10855520001481,5423.10.0010,
+FG0076-01,"Milkflow Drink Mix, Fenugreek, Berry, 16 Ct (electrolytes)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560101,.5,,4.625,6.125,3.16,4,2.46,10.25,10.25,4.75,10850008560108,2106.90.9887,US
+FG0076-01-INACTIVE,"Milkflow Berry, Electrolytes, 16pk, Supplement Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,,.5,,4.6,4.6,3.1,6,3.44,10.25,10.25,5.75,,,US
+FG0076-02,"Milkflow Choc, Electrolytes, 16pk, Supplement Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560118,.65,,4.6,4.6,3.1,6,4.525,10.25,10.25,5.75,10850008560115,2106.90.9887,US
+FG0076-02-INACTIVE,"Milkflow Choc, Electrolytes, 16pk, Supplement Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,,.65,,4.6,4.6,3.1,6,4.525,10.25,10.25,5.75,,,US
+FG0076-03,"Milkflow Drink Mix, Fenugreek, (16-Pack), Orange Mango, (Immunity)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560903,.5,1.088621688,4.625,6.125,3.1,4,2.40,10.25,10.25,4.75,10850008560900,2106.90.9887,US
+FG0076-04,"Milkflow Drink Mix, Fenugreek, (16-Pack), Chocolate, (Energy)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560910,.7875,1.4288159655,4.6,6.125,3.1,4,3.15,10.25,10.25,4.75,10850008560917,2106.90.9887,US
+FG0080-01,"UpSpring, Baby Vitamin D3",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001613,.08666667,,2.75,4.5,1.5,6,0.52,6.25,13,5.5,30855520001614,2936.29.5020,US
+FG0080-02,"Baby Vitamin D3, 365 Drops",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,859188006881,.08666667,,2.75,4.5,1.5,6,0.62,10,3.25,5.5,10859188006888,2936.29.5020,US
+FG0085-01,"Wellbaby, Multi-Vitamin, 60mL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001682,.186,,,,,,1.14,3.25,9.5,5.25,10855520001689,3004.50.5030,
+FG0095-01,"UpSpringbaby, Multi-Vitamin + Iron, 60mL, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001637,.226,,,,,6,1.5,9.75,5.25,3.25,30855520001638,3004.50.5030,
+FG0095-03,"UpSpringbaby, Multi-Vitamin + Iron, 60mL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,859188006805,.226,,,,,6,1.5,9.75,5.25,3.25,10859188006802,3004.50.5030,US
+FG0100-01,"UpSpring, Breast Pillow, Small, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,855520001699,.07,,,,,1,,,,,,6307.90.9889,
+FG0100-02,"UpSpring, Breast Pillow, Medium, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,855520001705,.101,,,,,1,,,,,,6307.90.9889,
+FG0100-03,"UpSpring, Breast Pillow, Large, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,855520001712,.179,,,,,1,,,,,,6307.90.9889,
+FG0100-04,"UpSpring, Breast Pillow, XLarge, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,855520001729,.291,,,,,1,,,,,,6307.90.9889,
+FG0105-01,"UpSpring, Breast Pillow, Cover, Small, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,0,,,,,1,,,,,,,
+FG0105-02,"UpSpring, Breast Pillow, Cover, Medium, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,0,,,,,1,,,,,,,
+FG0105-03,"UpSpring, Breast Pillow, Cover, Large, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,0,,,,,1,,,,,,,
+FG0105-04,"UpSpring, Breast Pillow, Cover, XLarge, White",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,0,,,,,,,,,,,,
+FG0110-01,"UpSpring, Nipple Balm, 1.5 oz - Retail Box",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breastfeeding,Yes,Yes,855520001767,.208,,,,,6,1.26,8.75,4.5,5.75,10855520001764,1513.19.0000,US
+FG0110-02,"UpSpring, Nipple Balm, 2 oz. - Poly Bag",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breastfeeding,Yes,Yes,855520001767,.208,,,,,,,,,,10855520001764,1513.19.0000,
+FG0110-03,"UpSpring, Nipple Balm, 1.5 oz - Jar Only",Assembly/Bill of Materials,Legacy UpSpring : (Old) Breastfeeding,Yes,Yes,855520001224,.16,,,,,24,3.85,8.25,6.25,5,,1513.19.0000,US
+FG0115-01,"UpSpringKid, OMEGA3 w/DHA & EPA, Gummy, 60 Count",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001934,0,,,,,,,,,,,2106.90.9998,
+FG0120-01,"Milkflow, Supplement, Capsules, 100 Count",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,855520001873,.142,,2.067,3.785,2.067,1,0.142,2.067,2.067,3.785,20855520001877,2106.90.9998,
+FG0120-03,"Milkflow, Supplement, Capsules, 100 Count, 120cc, Bottle Only",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,859188006928,.142,,2.067,3.785,2.067,1,0.142,2.067,2.067,3.785,20855520001877,2106.90.9998,
+FG0125-01,"Milkflow, Supplement, Capsules, 60 Count, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,855520001736,.138,,2.75,4.5,2,6,1,9.25,4.75,6.5,40855520001734,2106.90.9998,
+FG0125-02,"Milkflow, Supplement, Capsules, 100 Count, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,855520001057,.138,,2.75,4.5,2,6,1.10,9.25,4.75,6.5,10855520001054,2106.90.9898,US
+FG0125-03,"Milkflow, Supplement, Capsules, 60 Count, 100cc, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,859188006935,.138,,2.75,4.5,2,6,1,9.25,4.75,6.5,10859188006932,2106.90.9898,US
+FG0125-04,"Milkflow, Supplement, Capsules, 100 Count, 120cc Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,859188006942,.138,,2.75,4.5,2,6,1.10,9.25,4.75,6.5,10859188006949,2106.90.9898,US
+FG0127-01,"MilkFlow, Fenugreek Free, Capsules, 60 Count, 100cc",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,850008560095,.15,,4.5,2,2.75,6,1,9.25,5.25,4.25,10850008560092,2106.90.9898,US
+FG0130-01,"UpSpringKid, Vitamin D3, 1000IU, Gummy, 90 Count",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001927,.524,,,,,,1.733,8,5.625,2.75,20855520001921,2106.90.9998,
+FG0135-01,"UpSpring, Vitamin D3, 1000IU, Gummy, 90 Count",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,855520001941,.5235,,,,,,9.8,12,7,8.5,20855520001945,2106.90.9998,
+FG0155-01,"Milkflow, Fenugreek, Gummies, 90 Count",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,855520001798,.531,,,,,,7.486,6.5,12.125,8.5,30855520001799,2106.90.9998,
+FG0165-01,"Probiotics+Colostrum, StickPaks, 30 Cnt, Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,855520001583,.1,,5.5,2,2.75,6,0.95,9.25,4.75,6.5,10855520001580,2106.90.9897,US
+FG0170-01,"UpSpring 100% Organic Coconut Oil, 5oz.",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,859188006089,.5,,,,,,3.1,12,8.25,5,10859188006086,1513.19.0000,
+FG0215-01,"Morning SickLESS, 10 Capsule / 10 Hard Drop, 30cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,855520001996,.138,,,,,6,1.25,9.25,6.5,4.75,10855520001993,2106.90.9998,
+FG0220-01,"Shrinkx Belly Bamboo, (S/M) Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,859188006096,.8,,,,,5,4.8,12,10.75,7.75,10859188006093,6307.90.9889,CN
+FG0220-01(notinuse),"Shrinkx Belly Bamboo, (S/M) Black",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,.8,,,,,,,,,,,6307.90.9889,TW
+FG0220-02,"Shrinkx Belly Bamboo, (L/XL) Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,859188006102,.65,,,,,5,5.05,12,10.75,4.75,10859188006109,6307.90.9889,CN
+FG0220-02(notinuse),"Shrinkx Belly Bamboo, (L/XL) Black",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,.65,,,,,,,,,,,6307.90.9889,TW
+FG0220-04,"Shrinkx Belly Bamboo, (L/XL), 3-up Master",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,No,859188006102,1,,,,,3,3.20,12.25,7.25,7.50,20859188006106,6307.90.9889,CN
+FG0222-51-IG,"Shrinkx Belly Bamboo, (S/M), Black, Poly Bag, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,1230000073158,.8,,,,,5,4.8,12,10.75,7.75,10859188006093,6307.90.9889,CN
+FG0222-51-ML,"Shrinkx Belly Bamboo, (S/M), Black, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,5065009337170,0,,,,,5,4.8,12,10.75,7.75,10859188006093,6307.90.9889,CN
+FG0222-52-IG,"Shrinkx Belly Bamboo, (L/XL), Black, Poly Bag, Italian / German  (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,1230000073165,.65,,,,,5,4.8,12,10.75,7.75,10859188006093,6307.90.9889,CN
+FG0222-52-ML,"Shrinkx Belly Bamboo, (L/XL), Black, Poly Bag, Multi-Language (RB Amazon EU)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,5065009337187,0,,,,,5,4.8,12,10.75,7.75,10859188006093,6307.90.9889,CN
+FG0225-01,"Milkflow Max, Supplement, Capsules, 30 Count, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,Yes,Yes,855520001804,.138,,,,,6,0.85,9.25,5.25,4.75,30855520001737,2106.90.9998,US
+FG0240-01,UpSpringbaby Probiotic-Liquid Drops (dual chamber),Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,859188006119,.1,,,,,6,0.8,8.25,3,6,,2106.90.9898,CH
+FG0245-01,"UpSpring, Fertility Capsules, 30 Count, 60cc Bottle, Retail",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006126,.138,,,,,6,0.85,9.25,5.25,4.75,10859188006123,2106.90.9898,US
+FG0250-02,"Morning SickLESS, Hard Drops, 28 Count, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006140,.138,,,,,6,1.85,6,13,7,10859188006147,2106.90.9898,US
+FG0255-01,"Milkflow, Fenugreek, Shooter, 2oz Bottle, Chocolate",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006157,.138,,,,,,3,6,13,7,,2106.90.9898,US
+FG0260-01,"UpSpring, Prenatal Plus, 90 Gummy + 30 Gel-Capsule,",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,855520001811,.7,,,,,6,5,6,13,7,10855520001818,2106.90.9898,US
+FG0265-01,"UpSpring, Prenatal Plus, 30 Tablet + 30 Gel-Capsule",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,855520001828,.138,,,,,6,1.85,10.25,7.25,4.5,10855520001825,2106.90.9898,US
+FG0270-01,"POP High Waist Compression Only, 2-Pack (S/M) Nude & Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,859188006249,.45,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0270-02,"POP High Waist Compression Only, 2-Pack (L/XL) Nude & Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,859188006256,.45,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0270-03,"POP High Waist Compression Only, 2-Pack (1X/2X) Nude & Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,859188006263,.45,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0275-01,"UpSpring, Prenatal, Gummy, 90 Count, 300cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006270,.55,,2.625,5,2.625,1,,,,,,2106.90.9898,US
+FG0280-01,"UpSpring, Prenatal, Tablet, 30 Count, 100cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006287,0,,,,,1,,,,,,,
+FG0285-01,"UpSpring, Prenatal, Softgel AlphaOmega, 30 Count, 60ccBottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006294,0,,,,,1,,,,,,,
+FG0285-02,"UpSpring, Prenatal, Softgel Capsule, FNSKU PRINTED",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006768,0,,,,,1,,,,,,,
+FG0290-01,"C-Section Recovery + Incision Care - Nude (S/M), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006317,.248,,,,,1,1,8,6,4,,6212.90.0030,CN
+FG0290-02,"C-Section Recovery + Incision Care - Nude (L/XL), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006324,.248,,,,,1,1,8,6,4,,6212.90.0030,CN
+FG0290-03,"C-Section Recovery + Incision Care - Nude (1X/2X), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006331,.248,,,,,1,1,8,6,4,,6212.90.0030,CN
+FG0290-04,"C-Section Recovery + Incision Care - Black (S/M), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006348,.248,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0290-05,"C-Section Recovery + Incision Care - Black (L/XL), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006355,.248,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0290-06,"C-Section Recovery + Incision Care - Black (1X/2X), HCPCS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006362,.248,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0295-01,C-Section Recovery + Incision Care (2-Pack) - Nude (S/M),Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006560,.263,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0295-02,C-Section Recovery + Incision Care (2-Pack) - Nude (L/XL),Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006577,.263,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0295-03,"C-Section Recovery + Incision Care (2-Pack) - Nude (1X/2X),",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,859188006584,.263,,,,,1,,8,6,4,,6212.90.0030,CN
+FG0300-01,"Stomach Settle, Lemon Ginger, 28 Ct, Hard Drops, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006393,.138,,,,,6,1.85,8.25,6.25,4.5,10859188006390,2106.90.9898,US
+FG0300-02,"Stomach Settle, Lemon Ginger, 28 Ct, Hard Drops, Retail Pouch (3-Up)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006393,.138,,,,,3,1,8.25,2.5,6.5,20859188006397,2106.90.9898,
+FG0300-03,"Stomach Settle, Lemon Ginger, 10 Ct, Hard Drops, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,850008560033,.1005,,,,,6,1.0255,8,6,2,10850008560030,2106.90.9898,US
+FG0300-04,"Stomach Settle, Hard Drop, Mint, 28 Ct, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,850008560019,.138,,,,,6,1.85,8.25,4.75,6.5,10850008560016,2106.90.9898,US
+FG0300-06,"Stomach Settle, 55 Ct, Lemon Ginger, Hard Drop, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,850008560071,.55,,,,,12,9.7,13.5,17.5,9.25,10850008560078,2106.90.9898,US
+FG0300-07,"Stomach Settle Morning Sickness, 10 ct Lemon Ginger, Hard Drops, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,850008560279,.1005,,,,,6,,,,,10850008560276,2106.90.9898,US
+FG0300-08,"Stomach Settle Morning Sickness, 28 Ct, Lemon Ginger, Hard Drops, Retail Pouch",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,850008560286,.138,,,,,6,1.85,8.25,4.75,6.5,10850008560283,2106.90.9898,US
+FG0300-09,"Stomach Settle, Lemon Ginger, Hard Drop, 55 Ct, (Costco Online)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,850008560828,0,,6.5,8,2.5,12,7.10,15,7.625,5.4375,10850008560825,2106.90.9898,US
+FG0300-10,"Stomach Settle, Lemon Ginger, 28 Ct, Hard Drops, Retail Pouch NEW",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,859188006393,.138,,,,,4,1.45,8.375,6.375,4.625,30859188006394,2106.90.9898,US
+FG0300-11,"UpSpring, Stomach Settle, Lemon Ginger Honey, Hard Drop, 28 Count, Retail Pouch --- (48-Pack Master Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006393,.138,,,,,6,16,17,12,8,,2106.90.9898,US
+FG0300-12,"UpSpring, Stomach Settle, Mint, Hard Drop, 28 Count, Retail Pouch --- (4-Pack Master Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,850008560019,.138,,,,,4,1.45,8.25,6.25,5.38,30850008560010,2106.90.9898,US
+FG0300-13,"UpSpring, Stomach Settle Morning Sickness, Lemon Ginger, Hard Drops, 28 Count, Retail Pouch  --- (4-Pack Master Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,850008560286,.138,,,,,4,1.45,8.25,6.25,5.83,30850008560287,2106.90.9898,US
+FG0300-14,"UpSpring, Stomach Settle, Mint, Hard Drop, 28 Count, Retail Pouch --- (48-Pack Master Only)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,850008560019,.138,,,,,6,16,17,12,8,10850008560016,2106.90.9898,US
+FG0310-01,Bamboo - High Waist CO Panty (S/M) - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006409,.3,,4.5,7.375,1.625,5,2,8.25,6.5,4.75,,6212.90.0030,TW
+FG0310-01(notinuse),Bamboo - High Waist CO Panty (S/M) - Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,.3,,,,,,,,,,,6212.90.0030,TW
+FG0310-02,Bamboo - High Waist CO Panty (L/XL) - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006416,.35,,4.5,7.375,1.625,1,2,8.25,6.5,4.75,,6212.90.0030,TW
+FG0310-02(Notinuse),Bamboo - High Waist CO Panty (L/XL) - Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,.35,,,,,,,,,,,6212.90.0030,TW
+FG0315-01,Bamboo - High Waist CO Boyshort (S/M) - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006423,.313,,4.5,6.625,1.6,1,2,8.5,8,5,,6212.90.0030,TW
+FG0315-01(NotinUse),Bamboo - High Waist CO Boyshort (S/M) - Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006423,.3,,,,,,,,,,,,TW
+FG0315-02,Bamboo - High Waist CO Boyshort (L/XL) - Retail Box,Assembly/Bill of Materials,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006430,.313,,4.5,6.625,1.6,1,2.125,8.5,8,5,,6212.90.0030,TW
+FG0315-02(NotinUse),Bamboo - High Waist CO Boyshort (L/XL) - Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006430,.3,,,,,,,,,,,,TW
+FG0320-01,Bamboo - Nursing Tank (S/M) -Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006447,.45,,7,11.375,2,5,3,12,10.75,7.75,,6307.90.9889,TW
+FG0320-02,Bamboo - Nursing Tank (L/XL) -Retail Box,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,859188006454,.5,,7,11.375,2,5,3,12,10.75,7.75,10859188006451,6307.90.9889,TW
+FG0325-01,"Blessed Thistle, Capsules, 100 Count, 150cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006508,.15,,2,3.75,2,12,2.124,6.75,4.375,8.625,,2106.90.9898,US
+FG0330-01,"UpSpring, Malunggay, Capsules, 60 Count, 100cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006515,.1,,1.875,3.25,1.875,1,0.1,,,,,2106.90.9898,US
+FG0335-01,"UpSpring, Shatavari, Capsules, 60 Count, 150cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006522,.1,,1.875,3.25,1.875,1,0.1,,,,,2106.90.9898,US
+FG0340-01,"UpSpring, Goat's Rue, Capsules, 60 count, 100cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006539,.1,,,,,6,1.1,8.25,6.25,2.5,,2106.90.9898,US
+FG0345(notinuse LXL),"UpSpring BumpTube, Maternity Band, (L/XL), Black",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,859188006188,,,,,,,,,,,,,CN
+FG0345(notinuse SM),"UpSpring BumpTube, Maternity Band, (S/M), Black",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,859188006171,,,,,,,,,,,,,CN
+FG0345-01,"UpSpring BumpTube, Maternity Band, (S/M), Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,No,Yes,859188006171,.2,,4.5,7,1.75,5,2.15,8.5,8,5,,6307.90.9889,CN
+FG0345-02,"UpSpring BumpTube, Maternity Band, (L/XL), Black",Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,No,Yes,859188006188,.2,,4.5,7,1.75,5,2.15,8.5,5,5,,6307.90.9889,CN
+FG0360-01,"Milkflow, Single-Serving, Cookie, Flow-Wrap,Double Chocolate",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006652,.12,,,,,1,0.12,,,,,2106.90.9887,
+FG0360-02,"Milkflow, Single-Serving, Cookie, Flow-Wrap, Oatmeal Raisin",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006669,.12,,,,,1,0.12,,,,,2106.90.9887,
+FG0360-03,"Milkflow, Single-Serving, Cookie, Flow-Wrap, Oatmeal Salted",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006645,.12,,,,,1,0.12,,,,,2106.90.9887,
+FG0365-01,"Milkflow, Cookie, Dbl Chocolate, Retail Carton, 10 Serving",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006683,1.2,,,,,3,4.2,15.25,8,6,10859188006680,2106.90.9898,US
+FG0365-02,"Milkflow, Cookie, Oatmeal Raisin, Retail Carton, 10 Serving",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006690,1.2,,,,,3,3.95,15,7.63,5.44,10859188006697,2106.90.9898,US
+FG0365-03,"Milkflow, 10 Serving, Cookie, Retail Carton, Oatmeal Salted",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006676,1.2,,,,,3,4.3,15,7.63,5.44,10859188006673,2106.90.9898,US
+FG0365-04,"Milkflow,Cookie,VERTICAL,Oatmeal Raisin,Retail Carton,10 Serv",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006812,1.2,,,,,3,3.95,15,7.63,5.44,10859188006819,2106.90.9898,US
+FG0370-01,"Milkflow, 12 Serving, Cookie, Dry-Mix, Pouch, Dbl Chocolate",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006706,1,,,,,6,6.3,11.25,8.25,5.5,10859188006703,2106.90.9898,
+FG0370-02,"Milkflow, 12 Serving, Cookie, Dry-Mix, Pouch, Oatmeal Raisin",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006713,1,,,,,6,6.3,11.25,8.25,5.5,10859188006710,2106.90.9898,
+FG0385-01,"UpSpring, HeNatal, Tablets, 90 Count, 200cc Bottle, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,859188006737,.4,,2.75,4.59,2.34,3,1.2,8.25,5.25,3.375,20859188006731,2106.90.9898,US
+FG0390-01,"UpSpring, Omega-3 Smoothie, 16oz, Mango Peach",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006782,1.15,,1.7,9,1.3,12,14.2,10.25,8,9,,2202.99.3700,US
+FG0390-02,"UpSpring, Omega-3 Smoothie, 16oz, Key Lime",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,859188006799,1.15,,1.7,9,1.3,12,14.2,10.25,8,9,,2202.99.3700,US
+FG0400-01,"Milkflow Coffee Pods, 12-Serving Retail Carton, Robusta Flavor",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006829,.4,,,,,3,1.2,10.25,10.25,5.5,10859188006826,2101.11.2129,US
+FG0405-01,"Milkflow, Coffee StickPack, 14-Serving Retail Carton, Robusta Flavor",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,859188006836,.1,,2.531,4.5,2,6,0.95,8,5,4,10859188006833,2101.11.2129,US
+FG0430-01,"UpSpring, Prenatal Complete, Gummy, 120 Count, 625cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560040,1.15,,3,6.25,3,3,3.65,10.25,7.25,3.5,10850008560047,,US
+FG0435-01,"Prenatal Complete, Soft-Gel, 90 Count, 225cc Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560057,.35,,2.875,5.375,2.844,3,1.35,9.25,6.25,3.5,10850008560054,2106.90.9898,US
+FG0440-01,"Dual Prenatal Immunity, Capsules, 30 Count, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560125,.138,,3,4,2.25,6,0.85,9.25,4.25,4.75,10850008560122,2106.90.9898,US
+FG0440-02,"Dual Prenatal Immunity, Capsules, 30 Count, Retail Carton, (3-Up)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560125,.138,,3,4,2.25,,0.565,7.25,4.25,3.5,20850008560129,2106.90.9898,
+FG0450-01,"Dual Postnatal Immunity, Capsules, 30 Count, 112 mL Vial, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560170,.138,,3,4,2.25,6,0.85,9.25,4.25,4.75,10850008560177,2106.90.9898,
+FG0480-01,"UpSpring, Immunity Foundation, Liquid, Dropper, 30 Servings, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,850008560224,,,2.687,4.375,1.687,6,1.1,9,4,5,10850008560221,2106.90.9898,US
+FG0485-01,"UpSpring, Immunity Foundation + D3, Liquid, Dropper, 30 Servings, Retail Carton",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,850008560231,.18,,2.687,4.375,1.687,6,1.1,9,4,5,10850008560238,2106.90.9898,CA
+FG0530-01,"UpSpring, Immunity (LC Plasma), Capsules, 30 ct Bottle Only",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560330,,,,,,,,24.12,11,12,10850008560337,2106.90.9898,US
+FG0610-01,"U.Bloom, Fertility, Eggs Antioxidant, 60 Count Capsules, 150ml Bottle, Retail Carton, U by Upspring",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560699,.65,,5,2.8125,3.125,,13.5,20.5,10.125,5.625,,,
+FG0615-01,"U.Bloom, Fertility, Nest Collagen Drink Mix, 30 Count Sachet, Retail Carton, U by Upspring",Assembly/Bill of Materials,UpSpring : VMS : Adult Supplements : Fertility,Yes,Yes,850008560705,1.25,,7.8125,4.625,3.5,,8,14,9,9.375,,,
+FG0630-01,"U.Bloom, Fertility, Egg & Nest Combo, Retail Carton, U by Upspring",Assembly/Bill of Materials,UpSpring : VMS : Adult Supplements : Fertility,Yes,Yes,850008560750,2.2,,11,3.75,4.875,,14,19,11,8,,,
+FG0635-01,"U.Siip, Hydration Drink Mix, 14 Count, Citrus Ginger, Retail Carton, U by Upspring",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560767,.3,,3,4.75,2.5,6,,,,,,2106.90.9887,US
+FG0635-01-INACTIVE,"U.Siip, Hydration Drink Mix, 14 Count, Citrus Ginger-TEST",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,.3,,3,4.75,2.5,,,,,,,,
+FG0635-02,"U.Siip, Hydration Drink Mix, 14 Count, Lemon Lime, Retail Carton, U by Upspring",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,850008560774,.3,,3,4.75,2.5,6,,,,,,2106.90.9887,US
+FG0635-02-INACTIVE,"U.Siip, Hydration Drink Mix, 14 Count, Lemon Lime-TEST",Assembly/Bill of Materials,,Yes,Yes,,.3,,3,4.75,2.5,,,,,,,,
+FG0650-01,"C-Panty, Post Op Medical, Cesarean Recovery (XS/S)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,Yes,Yes,855520001026,0,,4.6,4.6,3.1,6,3.85,10,10,5,40855520001475,2106.90.9887,CN
+FG0650-02,"C-Panty, Post Op Medical, Cesarean Recovery (M/L)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,Yes,Yes,855520001033,0,,4.6,4.6,3.1,6,3.85,10,10,5,40855520001475,2106.90.9887,CN
+FG0650-03,"C-Panty, Post Op Medical, Cesarean Recovery (XL/1X)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,Yes,Yes,855520001217,0,,4.6,4.6,3.1,6,3.85,10,10,5,40855520001475,2106.90.9887,CN
+FG0650-04,"C-Panty, Post Op Medical, Cesarean Recovery (2X/3X)",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,Yes,Yes,855520001316,0,,4.6,4.6,3.1,6,3.85,10,10,5,40855520001475,2106.90.9887,CN
+FG0660-01,"MilkFlow Softchews, Fenugreek, Choc Raspberry 28 ct",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,Yes,No,850008560927,.4,0.181437,5,7,2.5,4,1.63,8.25,6.25,5.38,10850008560924,,US
+FG0670-01,"MilkFlow Softchews, Fenugreek, Berry, 28 ct",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,Yes,No,850008560934,.4,0.181437,5,7,2.5,4,1.63,8.25,6.25,5.38,10850008560931,,US
+FP0001-01,"Milkflow Drink Trial, Berry - Chocolate Flavors",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,.1125,,,,,1,,,,,,,
+FP0005-01,Free Trial of (5) Probiotic + Colostrum Stick Pack,Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,,.01125,,,,,1,,,,,,2106.90.9897,
+FP0010-01,Promotion: Prenatal 3 Gummies / 1 Soft-Gel Cap Sample-Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,.01125,,,,,,,,,,,,US
+FP0015-01,Promotion: SickLESS (2) Hard Drops Sample-Bag,Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,.01125,,,,,,,,,,,,US
+FP0020-01,Promotion: Coconut Oil 5mL Standard Coupon,Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,,.01125,,,,,,,,,,,1513.19.0000,US
+FP0025-01,"Promotion: Probiotics + Colostrum, 20-40 StickPaks, Caddy",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,,0,,,,,1,,,,,,2106.90.9897,US
+FP0030-01,"Promotion: D3, Drops Sample, 10mL, 20-25 Bottles, Caddy",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,,0,,,,,,,,,,,2936.29.5020,US
+FP0035-01,Promotion: Free Trial (3) Coconut Oil 5mL Standard Coupons,Assembly/Bill of Materials,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,,.05,,,,,,,,,,,1513.19.0000,US
+FP0040-01,Promotion: Stomach Settle (2) Hard Drops,Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,.02,,,,,1,,,,,,1513.19.0000,US
+FP0040-02,Promotion: Stomach Settle (1) Hard Drop,Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,.02,,,,,1,,,,,,1513.19.0000,US
+FP0045-01,"Promotion: Milkflow Drink Mix, UpSpring Shaker Bottle, 28 oz",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,No,Yes,850008560156,.3,,,,,1,,,,,,,
+FP0050-01,"FP0050-01 Promotion: Milkflow Baked Cookies Sample, Double C",Kit/Package,Legacy UpSpring : (Old) Milkflow,No,Yes,,1.1,,,,,,,,,,,,
+FP0055-01,"Promotion: UpSpring, Facemask, Giveaway Item, Adult Size",Assembly/Bill of Materials,Legacy UpSpring : (Old) Corporate,No,Yes,,.3,,,,,1,,,,,,,
+FP0055-02,"Promotion: UpSpring, Facemask, Giveaway Item, Child Size",Assembly/Bill of Materials,Legacy UpSpring : (Old) Corporate,No,Yes,,.3,,,,,1,,,,,,,
+FP0060-01,Milkflow Electrolytes Drink Trial: Berry & Chocolate Flavors,Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,,.1125,,,,,1,,,,,,,
+FP0065-01,Promotion: Milkflow + Electrolyte Berry Drink Mix Sachet & Insert Card for Amazon Sampling,Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,,0,,,,,1,,,,,,,
+FP0070-01,"Promotion: U.Siip, Hydration Drink Mix, Citrus Ginger Flavor & Insert Card for Amazon Sampling",Assembly/Bill of Materials,U Line : Hydration : Sachets,Yes,Yes,,0,,,,,,,,,,,,
+FP0070-02,"Promotion: U.Siip, Hydration Drink Mix, Lemon Lime Flavor & Insert Card for Amazon Sampling",Assembly/Bill of Materials,U Line : Hydration : Sachets,Yes,Yes,,0,,,,,,,,,,,,
+Freight - Shipping In,,Inventory Item,,No,Yes,,,,,,,,,,,,,,
+LU0035-01,"C-PANTY PACKAGING MATERIAL AND LABOR, BAI",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+PC0001-01,"Master Carton, Milkflow DM, 20 1/2 x 10 1/8 x 5 5/8",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+PC0001-02,"Inner Carton, Milkflow DM, 9 3/4 x 4 3/4 x 4 3/4",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+PC0005-01,"Master Carton, 300cc Packer, 12 x 8 1/4 x 6 1/16",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0005-02,"Inner Carton, 300cc Packer, 7 7/8 x 2 5/8 x 5 3/16",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0010-01,"Master Carton, USB-2_0D-Carton, 10 x 9 1/16 x 5 5/8",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0010-02,"Inner Carton, USB-2_0D-Carton, 8 9/16 x 2 3/16 x 4 3/4",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0015-01,"Master Carton, 225cc Packer, 11 1/4 x 7 5/8 x 5 3/8",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0015-02,"Inner Carton, 225cc Packer, 7 1/4 x 2 7/16 x 4 1/2",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0020-01,"Master Carton, USB-1_5D-Carton, 9 1/16 x 8 x 5 5/8",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0020-02,"Inner Carton, USB-1_5D-Carton, 8 9/16 x 1 11/16 x 4 3/4",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0025-01,"Master Carton, 9.375 x 2.9375 x 4.875",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0030-01,"MSA, Master Carton, 9.375 x 4.75 x 3",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+PC0030-02,"MSA, Master Carton Divider, 11.750 x 2.875",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+PC0035-01,"DM, Master Carton, 16.25 x 4.8125 x 5.125",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+PC0040-01,"Master Carton, 8.75 x 4.5 x 5.75",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0040-02,"Master Insert, 10.5 x 6.25",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+PC0045-01,"Master Carton, 11.75 x 8.00 x 4.25, RSC, 32C Flute, KRAFT",Inventory Item,,No,Yes,,,,,,,,,,,,,,US
+PC0050-01,"Master Carton, Milkflow Shooter Caddy, 9.00 x 9.00 x 3.625",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0055-01,"Master Carton, Prenatal Gummy Kit, 10 x10 x 6, RSC, 32C",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+PC0060-01,"Master Carton, BP SM, 9.75 x 6.50 x 6.625, RSC, 32C Flute",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,US
+PC0060-02,"Master Carton, BP LXL, 14.00 x 9.00 x 9.375, RSC, 32C Flute",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,US
+PC0065-01,"Master Carton, Milkflow Drink Mix, 10.00 x 10.00 x 5.00, RSC, 200# Flute, KRAFT, Holds 6 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+PC0070-01,"Master Carton, MF 100 CAP, 8.00 x 6.00 x 2.00, RSC, 200#",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0075-01,"Master Carton, PN Tablet Kit & MF Trays, 10.00 x 7.00 x 4.00",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+PC0080-01,"Master Carton, MF Caps 60ct/100ct/Fenu Free, Fertility, 9 x 5 x 4, RSC, 200# Flute, KRAFT, Holds 6 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,No,,,,,,,,,,,,,,US
+PC0085-01,"Master Carton, Probiotics+Colostrum,9x6x4",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+PC0090-01,"Master Carton, MF Cookie DM, 11.00 x 8.00 x 5.00, RSC, 200#",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0095-01,"Master Carton, Stomach Settle 55ct, 15.00 x 75/8 x 57/16 RSC, 200# Flute, KRAFT, Holds 3 Retail Cartons (Costco.com)",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,US
+PC0095-02,"Master Carton, MF Cookie Baked, 14x7x7, RSC, 200",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0095-03,"Master Carton, MF Cookie Baked Tray, 9x7x5, RSC, 200#",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0100-01,"Master Carton, Prenatal Soft-Gel Complete, 9x6x3, RSC, 200# Flute, KRAFT, Holds 3 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+PC0105-01,"Master Carton, Prenatal Gummy Complete, 10x7x3, RSC, Holds 3 Retail Bottles",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+PC0110-01,"Master Carton, HeNatal Tablets, 8.00 x 5.00 x 3.00, Holds 3 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+PC0115-01,"Master Carton, Milkflow Coffee StickPacks, 8 x 5 x 4 RSC, 200# Flute, KRAFT, Holds 6 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+PC0120-01,"PDQ Display Shipper, Stomach Settle Lemon Ginger Club, 3 x 4 Tray #595207",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+PC0120-02,"PDQ Display Shipper, Riser #595208",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+PC0120-03,"PDQ Display Shipper, Divider #595209",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+PC0120-04,"PDQ Display Shipper, HSC Cover #594573",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+PC0125-01,"Master Carton, Stomach Settle(6up), CPanty/DTC, 8.00 x 6.00 x 4.00, Lightweight 32 ECT",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0126-01,Master Carton 8 x 6 x 4 1/2 Lightweight 32 ECT,Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0130-01,"Master Carton, Stomach Settle (28ct-3up & 10ct-8up), 8.00 x 6.00 x 2.00, 200# Flue, Kraft",Inventory Item,Legacy UpSpring,No,Yes,,,,,,,,,,,,,,US
+PC0135-01,"Master Carton, Dual Prenatal Immunity Capsules 30ct - 7.00 x 4.00 x 3.00 - RSC, 200# Flute, KRAFT, Holds 3 Retail Units (HEB)",Inventory Item,Legacy UpSpring,No,Yes,,,,,,,,,,,,,,US
+PC0140-01,"Master Carton, Shrinkx Belly/Bamboo (LXL), 12.00 x 7.00 x 7.00, - RSC, 200# Flute, KRAFT, Holds 3 Retail Units (Target)",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0140-02,"Master Carton, SHX MASTER - Shrinkx Belly Bamboo (All Sizes), 11 3/4 x 10 1/2 x 7.00 RSC, 200# Flute, KRAFT, Holds 5 Retail Units",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0145-01,"Overpack Shipper, Milkflow 100ct Capsules-Bottle Only - 18.00 x 12.00 x 9.00 - Lightweight 32 ECT, Holds 120 Bottles (ANC)",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0150-01,"Overpack Shipper, MF Caps 60ct,/100ct/Fenu Free, Fertility - 20.00 x 14.00 x 12.00  - Lightweight 32 ECT, Holds 12 Master Cartons (72 Retail Units) - Hoisery  in UpSpring WH-Amazon (ANC)",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0155-01,"Master Carton, Milkflow Drink Mix, 10.00 x 10.00 x 4.00, KRAFT, Holds 4 Retail Cartons",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+PC0160-01,"Master Carton, C-Panty/PBP Single Unit,  19 x 11 x 8",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PC0170-01,"Master Carton, C-Panty/PBP 2 pk, 22 x 15 x 9",Inventory Item,Legacy UpSpring,No,No,,,,,,,,,,,,,,US
+PL0001-01,"Milkflow, 18-Pack, Case Label",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+PL0005-01,"MilkMulti, 21-Pack, Case Label",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+PL0010-01,MSA 5 Pack Case Label,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+PL0010-02,MSA 8 Pack Case Label,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+PL0010-03,MSA 20 Pack Case Label,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RB0001-01,"8 Gauge PVC, 4.75 x 6.75 + 2.25 Flap, 0.75 Deep",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,CN
+RB0001-02,"8 Gauge PVC, 4.75 x 6.75 + 2.75 Flap, 1.25 Deep",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RB0001-03,"8 Gauge PEVA Bag, 4.75 x 6.75 + 1.6 Flap, 0.75, Hang Tab",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,CN
+RB0001-04,"8 Gauge PEVA Bag, 4.75 x 6.75 + 2 Flap, 1.25, Hang Tab",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,
+RB0005-01,"Morning SickLESS, Hard Drop Pouch, 28 Count, 5"" X 8"" X 2.5",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RB0010-01,"Stomach Settle, Hard Drop Pouch, 28 Count, 5"" X 8"" X 2.5",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RB0010-02,"Stomach Settle, Hard Drop Pouch, 10 Count, 4"" W X 6"" L x 2""",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RB0010-03,"Stomach Settle, Hard Drop Pouch, 55 Count, 6.5"" W X 8.25"" L + 2.5""",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,
+RB0015-01,"MF, Cookie Dry-Mix, Pouch, CC, 15 Oz, Metalized, Zipper",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RB0015-02,"MF, Cookie Dry-Mix, Pouch, OR, 15 Oz, Metalized, Zipper",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RB0015-03,"MF, Cookie Dry-Mix, Pouch, CC, 15 Oz, Metalized, No-Zipper",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RB0015-04,"MF, Cookie Dry-Mix, Pouch, OR, 15 Oz, Metalized, No-Zipper",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RB0020-01,"Milkflow Coffee Pod Bag, 12 Count, Size: 4""  x 12"" x 3.5""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RB0020-02,"Milkflow Coffee Pod Bag, 12 Count, Pouch Size: 4""  x 4"" x 9"", Heat Sealable Flat Bottom Gusset Bags, 1.6 Mil, Clearbags.com",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RC0001-01,"UpSpring, Nipple Balm, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Breastfeeding,No,Yes,,,,,,,,,,,,,,
+RC0005-01,"Milkflow, Fenugreek, Berry, 18-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0005-02,"Milkflow, Fenugreek, Chocolate, 18-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0005-03,"Milkflow, Fenugreek, Citrus, 18-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0005-04,"Milkflow, Fenugreek, Berry, TARGET, 18-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0005-05,"Milkflow, Fenugreek, Berry, AMAZON, 24-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+RC0007-01,"MamyFlow, Fenugreek, Chocolate, 20-Packet, TTAB Carton, SBS",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+RC0010-01,"MilkMulti, Postnatal, 21-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0015-01,"MSA, 5-Pack TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RC0015-02,"MSA, 8-Pack TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+RC0015-03,"MSA, 20-Pack TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+RC0015-04,"MSA, 8-Pack, English / French, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RC0015-05,"MSA, 20-Pack, English / French, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RC0015-06,"MSA, 8-Pack, English / German, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RC0015-07,"MSA, 20-Pack, English / German, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RC0015-08,"MSA, 30-Pack TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+RC0020-01,"Shrinkx Belly, Straight-Tuck Box w/Mailer-Lock",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RC0025-01,"Multi-Vitamin + Iron, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RC0030-01,"Milkflow, Capsules, 60 Count, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0030-02,"Milkflow, Capsules, 100 Count, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,
+RC0035-01,"UpSpringbaby, D3, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RC0035-02,D3_365 Drops_Retail_Box,Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RC0040-01,"Morning SickLESS, Capsules, 10 Count, TTAB Carton, SBS .018",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RC0045-01,"Milkflow MAX, Capsules, 30 Count, TTAB Carton, SBS .018",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,No,Yes,,,,,,,,,,,,,,US
+RC0050-01,"100% Pure Vgn Coconut Oil, 5oz Fill, TTTB, SBS .018",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,US
+RC0055-01,"Probiotic, 30 Sticks, TTTB Carton, SBS .018, 5.50x2.75x2.00",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RC0060-01,"Breast Pillow, S/M, TTTB w/ Hang Tab Carton, SBS .018",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,US
+RC0060-02,"Breast Pillow, L/XL, TTTB w/ Hang Tab Carton, SBS .018",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,US
+RC0065-01,"Milkflow, Shooter, 2oz Bottle, Chocolate, POS Caddy, 9-Pak",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RC0070-01,"Prenatal Plus, 90 Gummy + 30 Gel-Cap, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RC0075-01,"Bamboo Shrinkx Belly, Straight-Tuck Box w/Mailer-Lock, SBS .024",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,No,,,,,,,,,,,,,,US
+RC0080-01,"Prenatal Plus, 30 Tablet + 30 Gel-Cap, TTAB Carton, SBS",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RC0085-01,"Fertility Plus, 30 Capsules, TTAB Carton, SBS .018, 2.75 x 2",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RC0090-01,"Promotional Caddy+Insert,Probiotics+Colostrum,StickPak,TTAB",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RC0095-01,"Promotional Caddy, D3, Drops Sample, 10mL, TTAB",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RC0100-01,Bamboo - HW Panty (S/M) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0100-02,Bamboo - HW Panty (L/XL) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0105-01,Bamboo - Boyshort (S/M) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0105-02,Bamboo - Boyshort (L/XL) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0110-01,Bump Tube (S/M) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0110-02,Bump Tube (L/XL) Straight-Tuck Box w/Mailer-Lock,Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,4.5,6.6,1.6,,,,,,,,US
+RC0115-01,"Milkflow, Baked Cookie, DC, 10-Serving, TTAB Carton, SBS",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0115-02,"Milkflow, Baked Cookie, OR, 10-Serving, TTAB Carton, SBS",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0115-03,"MilkFlow, Baked Cookie, Oatmeal Salted Caramel, 10-Serving,",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0120-02,"Milkflow, Baked Cookie, OR, 10-Serving, Carton, VERTICAL",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RC0125-01,"MilkFlow, Baked Cookie, Double Chocolate, 8-Serving Tray",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RC0125-02,"MilkFlow, Baked Cookie, Oatmeal Raisin, 8-Serving Tray",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RC0130-01,"Milkflow Coffee Pods, 12-Serving, TTAB Carton, Auto Bottom",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0135-01,"HeNatal Tablets, 90 Count, TTAB Carton, Auto Bottom, SBS .018, 2.75 X 2.344 X 4.594",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RC0140-01,"Prenatal Complete, Soft-Gel, 90 Ct, TTAB Carton, SBS .016, 2.875 X 2.875 X 5.375",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RC0145-01,"Milkflow Coffee StickPacks, 14-Serving, TTAB Carton, Auto Bottom Tuck Top, SBS .018",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RC0150-01,"Milkflow, Berry + Electrolytes, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RC0150-02,"Milkflow, Choc + Electrolytes, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0150-03,"MilkFlow Orange Mango + Immunity, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+RC0150-04,"MilkFlow, Chocolate + Energy, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+RC0155-01,"MilkFlow, Non-Fenugreek, Blackberry Lime, 16-Packet, TTAB Carton, SBS .018, 4.6 x 3.1 x 4.6",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RC0155-02,"MilkFlow, Non-Fenugreek Blueberry Acai, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+RC0155-03,"MilkFlow, Non-Fenugreek + Immunity, Elderberry Lemonade, 16-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+RC0160-01,"Milkflow, Non-Fenugreek Capsules, 60 Count, TTAB Carton, SBS .018, 4.5 x 2.75  x 2.0",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,
+RC0165-01,"Hydration, Citrus Ginger, 14-Serving, File: 114_Carton w/Perf, TTAB Carton, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0165-02,"Hydration, Lemon Lime 14-Serving, File: 114_Carton w/Perf, TTAB Carton, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0165-03,"Hydration, Insert, All SKUs, File: 115_INSERT, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0170-01,"Fertility, Nest, Unflavored, 30-Serving, File 0193_Tray Rev, TTAB Carton, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0170-02,"Fertility, Nest, Unflavored, 30-Serving, File 0193_Lid, Open End, Tuck Top Carton, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0170-03,"Fertility, Nest, Unflavored, 30-Serving, File 0193_Band A, Sleeve Glued, Carton, SBS .024",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0175-01,"Fertility, Eggs, Capsules, 60 count, File 1073, FOST w/Tucktop Carton, SBS .024 C2S",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RC0175-02,"Fertility, Eggs, Capsules, 60 count, File 1065_INS REV 1, Die Cut Blank Unglued, Litho Laminated",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0175-03,"Fertility, Eggs, Capsules, 60 count, File 1065_INS 2, Die Cut Blank Unglued, SBS .024 C2S",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0175-04,"Fertility, Eggs, Capsules, 60 count, File 1073_Band A, Sleeve Glued",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0180-01,"Fertility, Eggs+Nest Combo, File 1075_rev 2, FOST w/Tucktop Carton, SBS .024 C2S",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0180-02,"Fertility, Eggs+Nest Combo, File 1075_INS 2, Die Cut Blank Unglued, SBS .024 C2S",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0180-03,"Fertility, Eggs+Nest Combo, File 1075_INS, Die Cut Blank Unglued, Litho Laminated, 1CP+MatteAQ , 16.625 x 14",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0180-04,"Fertility, Eggs+Nest Combo, File 1075_BAND A, Sleeve Glued, SBS .024 C2S",Inventory Item,,No,No,,,,,,,,,,,,,,
+RC0185-01,"C-panty Post Op Mailer w/ears and extended front panel, F.O.S.T. w/Trucktop, SBS .024, 1C+AQ/0,  8”x6”x2”",Inventory Item,,No,No,,,,,,,,,,,,,,
+RF0001-01,"Milkflow, Fenugreek, Berry, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RF0001-02,"Milkflow, Fenugreek, Chocolate, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RF0015-01,"Probiotic, StickPak Film, 60mm x 80mm, GITX Stock# 731",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RF0020-01,"Milkflow, Baked Cookie Film, Double Chocolate, 8.504"" x 5.5""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RF0020-02,"Milkflow, Baked Cookie Film, Oatmeal Raisin, 8.504"" x 5.5""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RF0020-03,"MilkFlow, Baked Cookie Film, Oatmeal Salted Caramel, 8.504""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RF0025-01,"Stomach Settle, Lemon Ginger, Hard Drop Film Rollstock,",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0025-02,"Stomach Settle, Mint Hard Drop Film Rollstock",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0025-03,"Stomach Settle, Hard Drop Film Rollstock Club Pack",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0025-04,"Stomach Settle for Morning Sickness, Lemon Ginger Hard Drop Film Rollstock 28 ct",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0025-05,"Stomach Settle for Morning Sickness, Lemon Ginger Hard Drop Film Rollstock 10 ct",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0025-06,"Stomach Settle, Lemon Ginger Hard Drop Film Rollstock 10 ct",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,US
+RF0030-01,"MilkFlow Coffee, StickPak Film, 60mm x 110mm, GITX Stock# 731",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RF0035-01,"Milkflow, Berry + Electrolytes, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RF0035-02,"Milkflow, Chocolate + Electrolytes, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RF0035-03,"MilkFlow, Fenugreek + Immunity, Orange Mango, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RF0035-04,"MilkFlow, Fenugreek + Energy, Chocolate, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RF0040-01,"Milkflow, Non-Fenugreek, Blackberry Lime, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RF0040-02,"MilkFlow, Non-Fenugreek + Electrolytes, Blueberry Acai, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RF0040-03,"MilkFlow, Non-Fenugreek + Immunity, Elderberry Lemonade, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,
+RF0045-01,"Hydration, Citrus Ginger, StickPak Film, 80mm x 120.65mm, GITX Stock#731",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RF0045-02,"Hydration, Lemon Lime, StickPak Film, 80mm x 120.65mm, GITX Stock# 731",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RF0050-01,"Fertility Nest, Drink Mix, Unflavored, Mix Packet, 4.5 x 3.5",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RF0055-01,"Stomach Settle, Lemon Ginger Film Rollstock, NEW",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,No,,,,,,,,,,,,,,US
+RF0055-02,"Stomach Settle, Mint Film Rollstock, NEW",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,No,,,,,,,,,,,,,,US
+RF0055-03,"Stomach Settle, LGH Morning Sickness Film Rollstock NEW, 18.5"" X 5"",, Soft Touch Matte",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,No,,,,,,,,,,,,,,US
+RG0001-01,"MSA, User Guide, 12.5 x 4 Flat, 1/1",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,
+RG0001-02,"French/English MSA , User Guides, 8.25x12.75 Flat",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RG0005-01,"Shrinkx Belly, Quick Start Guide",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RH0001-01,"Fenusterols, Standardized Fenugreek Extract 10:1",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,,,,,,,,,,,,,
+RH0001-02,"Fenusterols, Standardized Fenugreek Extract 10:1, 50% Steroidal Saponins - Ethanol",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,,,,,,,,,,,,,
+RH0005-01,"Morning SickLESS 001, Herbal Blend, Capsule Powder",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,,,,,,,,,,,,,US
+RH0010-01,"Milkflow MAX_001, Herbal Blend, Powder",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,Yes,Yes,,,,,,,,,,,,,,US
+RH0015-01,"Stomach Settle, Hard Drop Mix",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,,,,,,,,,,,,,US
+RH0020-01,"Milkflow_Shooter_001, Chocolate, Herbal Blend, Liquid",Inventory Item,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,,,,,,,,,,,,,US
+RH0025-01,"Coconut Oil, 100% Organic, Virgin, Bulk",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,,,,,,,,,,,,,,US
+RH0030-01,"Fertility_001, Herbal Blend, Powder",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,,,,,,,,,,,,,US
+RH0035-01,"Blessed Thistle, 4:1 Extract, Herbal Powder",Inventory Item,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,,,,,,,,,,,,,US
+RH0040-01,"Anise Seed, Herbal Powder",Inventory Item,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,,,,,,,,,,,,,US
+RI0001-01,"Breast Pillow, Insert Card, 5.30""x4.00""",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RI0005-01,"Insert, CP, HWIC, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0005-02,"Insert, CP, High Waist Incision Care, Nude, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0005-03,"Insert, CP, High Waist Incision Care, Black, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0005-51-ML,"Insert, CP, High Waist Incision Care, Nude or Black, Generic, Multi-Language",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0010-01,"Insert, CP, CWIC, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0010-02,"Insert, CP, Classic Waist Incision Care, Nude, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0010-03,"Insert, CP, Classic Waist Incision Care, Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0015-01,"Insert, MP, HWPB, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0015-02,"Insert, PB, High Waist Compression Only, Nude, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0015-03,"Insert, PB, High Waist Compression Only, Black, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0015-51-ML,"Insert, PB, High Waist Compression Only, Nude or Black, Generic, Multi-Language",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0020-01,"Insert, CP, Starter Pack, HWIC & CWIC, Nude, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0025-01,"Insert, CP, 2-Pack, CWIC, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0030-01,"Insert, CP, 2-Pack, HWIC, Nude & Black, Generic, Anda",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,
+RI0030-51-ML,"Insert, CP, 2-Pack, High Waist Incision Care, Nude & Black, Generic, Multi-Language",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0035-01,"Insert, PO, HWIC, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0040-01,"Insert, PO, HWCO, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0045-01,"Insert, PO, CWIC, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0050-01,"Insert, PO, 2-Pack, HWCO, Nude & Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,,,,,,,,,,,,,,
+RI0055-01,"C-Panty, Fold Card, 4.25 x 5.5",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,
+RI0060-01,"Insert, HCPCS, High Waist Incision Care, Nude, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0060-02,"Insert, HCPCS, High Waist Incision Care, Black, Generic",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0065-01,"Insert, MP, HCPCS, High Waist Incision Care, Nude, 2 pack",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0070-01,"Insert, HCPCS, C-Section Recovery+Incision Care (StartPk-ND)",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RI0075-01,"Insert, PO, 2-Pack, High Waist CO w/silicone, Nude & Nude",Inventory Item,Legacy UpSpring : (Old) C-Panty : (Old) POPanty,No,Yes,,,,,,,,,,,,,,
+RI0085-51-ML,"Insert, Shrinkx Belly, Generic, Poly Bag, Multi-Language",Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,No,,,,,,,,,,,,,,US
+RI0090-51-ML,"Insert, Shrinkx Belly Bamboo, Generic, Poly Bag, Multi-Language",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,No,,,,,,,,,,,,,,US
+RI0095-01-ML,"Insert, Faja, postpartum belly band, Spanish / English",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,No,,,,,,,,,,,,,,US
+RI0100-01,"Insert, CP, High Waist Incision Care, Nude, Generic, Anda/Selectra",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0100-02,"Insert, CP, High Waist Incision Care, Black, Generic, Anda/Selectra",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0105-01,"Insert, PB, High Waist Compression Only, Nude, Generic, Anda/Selectra",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0105-02,"Insert, PB, High Waist Compression Only, Black, Generic, Anda/Selectra",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RI0110-01,"Insert, CP, 2-Pack, High Waist Incision Care, Nude & Black, Generic, Selectra",Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RL0001-01,"Milkflow, Capsules, Bottle Label, 60 Count",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+RL0001-02,"Milkflow, Capsules, Bottle Label, 100 Count",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,
+RL0005-01,"UpSpring, Nipple Balm Jar Label, 2oz",Inventory Item,Legacy UpSpring : (Old) Breastfeeding,No,Yes,,,,,,,,,,,,,,
+RL0005-02,"Breast Pillow, Label, 1.25"" x 1.0""",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RL0010-01,"UpSpringbaby, D3, Bottle Label, 20mL, 1.5x3.5",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RL0010-02,"UpSpring, D3, Bottle Label, 10mL, 0.75x3.0 Rectangle, 2-Ply",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0010-03,"UpSpring, D3, Squeez Bottle Label, 15mL, 1.125x3""",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0010-04,"UpSpring, D3, 365 Drops, Squeez Bottle Label, 15mL, 1.125x3""",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0015-01,"Wellbaby, Multi Bottle Label, 60mL, 1.875x4.25",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RL0020-01,"UpSpring Baby Iron + Immunity Bottle Label, 60mL, 1.875x4.25",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RL0025-01,"MSA, 1"" Circle Clear Tamper Evident Label",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RL0030-01,"Morning SickLESS, Capsules, Bottle Label, 30cc, 10 Count",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,
+RL0035-01,"Milkflow MAX, Capsules, Bottle Label, 60cc, 30 Count",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Milkflow - Other,No,Yes,,,,,,,,,,,,,,
+RL0040-01,"100% Pure Virgin Coconut Oil, 5oz Jar Label, 3.3"", BOPP",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,
+RL0045-01,"Prenatal Soft Gel Capsules, Bottle Label, 60cc, 30 Count",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RL0050-01,"Milkflow, Shooter Bottle Label, Chocolate, 60mL, 1.875x4.25",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RL0055-01,"Fertility, Capsules, Bottle Label, 60cc, 30 Count, 4.75x1.50",Inventory Item,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,No,Yes,,,,,,,,,,,,,,
+RL0060-01,"Prenatal, Tablet, Bottle Label, 30 Count, 5.625x2.00",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,
+RL0065-01,"Milkflow, Drink Mix, Chai Tea, Jar Label, 24 Servings",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RL0065-02,"Milkflow, Fenugreek, Sugar Free Berry, Canister Label, 8oz",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RL0065-03,"Milkflow, Fenugreek, Sugar Free Berry, Canister Label, 16oz",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RL0070-01,"Prenatal Gummy, Bottle Label, 300cc, 90 Count, 7.75 x 3.0",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0080-01,"Omega-3 Smoothie, Peach Mango, Bottle Label, 16oz",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0080-02,"Omega-3 Smoothie, Key Lime, Bottle Label, 16oz",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0085-01,"Blessed Thistle Capsules 100 ct, 150 cc Bottle Label, 2.0"" x 6.125""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RL0100-01,"Goat's Rue Capsules, 60 ct, 100 cc Bottle Label, 2.0"" x 5.6""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RL0105-01,"Prenatal Complete, Gummy, Bottle Label, 625cc, 120 Count",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0110-01,"Prenatal Complete, Soft-Gel Capsules, Bottle Label w/ Hinge, 225cc, 90 Count",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RL0115-01,"Milkflow, Non-Fenugreek Capsules, Bottle Label, 100cc, 60 Count",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,No,,,,,,,,,,,,,,US
+RL0120-01,"Fertility, Eggs, Capsules, Glass Bottle Label, 150mL, 60 Count, 2.75x6.75 Rectangle",Inventory Item,UpSpring : VMS : Adult Supplements : Fertility,No,Yes,,,,,,,,,,,,,,US
+RM0001-01,"Breast Pillow, Hook, 1.5"" x 0.5"", White, Sewable",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0001-02,"Breast Pillow, Hook, 2.5"" x 0.5"", White, Sewable",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0005-01,"Breast Pillow, Loop, 1.5"" x 0.5"", White, Sewable",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0005-02,"Breast Pillow, Loop, 2.5"" x 0.5"", White, Sewable",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0010-01,"Breast Pillow, Foam Filler, Small",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0010-02,"Breast Pillow, Foam Filler, Medium",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0010-03,"Breast Pillow, Foam Filler, Large",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0010-04,"Breast Pillow, Foam Filler, XLarge",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0015-01,"Breast Pillow, Fabric, Sherpa, Cotton / Polyester",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0020-01,"Breast Pillow, Fabric, Bleached, 9 oz., Cotton, White",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,
+RM0025-01,Beige C-Panty Silon-Tex Insert,Inventory Item,Legacy UpSpring : (Old) C-Panty,No,Yes,,,,,,,,,,,,,,US
+RM0025-02,Beige C-Panty Silon-Tex II Insert (NEW),Inventory Item,Legacy UpSpring : (Old) C-Panty,No,No,,,,,,,,,,,,,,US
+RM0030-01,"Dropper, 18DIN, White non-TE PP Closure, .20mL",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RM0035-01,"Dropper, 20/400 White FRST PP Closure",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RM0040-01,"Dropper, 20mm CRC White PP Closure",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RM0045-01,"Milkflow, Fenugreek, Berry, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RM0045-02,"Milkflow, Fenugreek, Chocolate, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RM0045-03,"Milkflow, Fenugreek, Citrus, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RM0045-04,"Milkflow, Fenugreek, CHAI Tea, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RM0047-01,"MamyFlow, Fenugreek, Chocolate, Mix Packet, MP White",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+RM0050-01,"MilkMulti, Postnatal, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+RM0055-01,Supply Fasson 75772 Foil Material,Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+RM0060-01,"Polystyrene, HIPS DD PRINT BLUE/WHITE",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,No,,,,,,,,,,,,,,US
+RM0065-01,"Shrinkx Belly, Support Belt, Nude, S/M, Raw Material",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RM0065-02,"Shrinkx Belly, Support Belt, Nude, L/XL, Raw Material",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RM0065-03,"Shrinkx Belly, Support Belt, Black, S/M, Raw Material",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RM0065-04,"Shrinkx Belly, Support Belt, Black, L/XL, Raw Material",Inventory Item,Legacy UpSpring : (Old) Shrinkx Belly,No,Yes,,,,,,,,,,,,,,
+RM0075-01,"Jar, Straight Regular Wall, 6oz, 89mm, PP, Custom Color",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,US
+RM0080-01,"Lid, Smooth Straight w / HI Liner, 89mm, PP, Custom Color",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,No,Yes,,,,,,,,,,,,,,US
+RM0085-01,"Probiotic, StickPak Film, 60mm x 80mm, GITX Stock# 731",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0090-01,"Dropper, SR18 .8cc White Flouroglazed Monprene Bulb; 7x68mm",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0095-01,"UpSpring, Stomach Settle, Sample Packet, White, 4 x 4",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0100-01,"Hook Hang Tab, Interior Attachment, Clear, PVC, 0.020""",Inventory Item,Legacy UpSpring : (Old) Charcoal Fusion,No,Yes,,,,,,,,,,,,,,US
+RM0105-01,"Milkflow, Cookie, Die-Cut Blank, SBS .024, 2.75"" x 2.75""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RM0110,"Tamper Evident .75"" Tape, Black inscription on Tape",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0110-01,"Tamper Evident .75"" Tape, Black inscription on Tape",Inventory Item,Legacy UpSpring : (Old) Child Supplements,No,Yes,,,,,,,,,,,,,,
+RM0115-01,"Bottle, Packer, 400cc 45/400, Pet, Cobalt Blue",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0120-01,"MilkFlow, Cookie, Divider Card, for VERTICAL box SBS .024, 4.25""x4.75""",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RM0125-01,"Bottle, Closure, Full Pour, Vented 45/400, Black",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0130-01,"Milkflow Coffee Pod Lid, Single Serve Lidding, 52 MM MOD",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,US
+RM0140-01,"SilverSol, Bulk OTC Gel, 24ppm, 5-Gallon Container",Inventory Item,Legacy UpSpring : (Old) Skincare_Other,Yes,Yes,,,,,,,,,,,,,,
+RM0145-01,"Jar, Wide-Neck, 150ml, 53/400, Glass, Saturn Series, Violet",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,CZ
+RM0150-01,"Closure, 53/400, SAN, Saturn Series, Violet",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,DE
+RM0155-01,"Seal, Heat Induction, 53mm, .007"", Foam Backed, Plastic & Glass",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,No,Yes,,,,,,,,,,,,,,US
+RM0160-01,"C-Panty, Post Op Medical Strap, Part 1-A: Length: 26"" (66.04cm) x 3.94"" (10cm), Finished edges",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RM0160-02,"C-Panty, Post Op Medical Strap, Part 1-B: Length: 31"" (78.74cm) x 3.94"" (10cm), Finished edges",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RM0160-03,"C-Panty, Post Op Medical Strap, Part 2: Length: 26"" (66.04cm) x 3.07"" (7.8cm), Velcro hook, for all sizes",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+RM0165-01,"U.Siip, Hydration Drink Mix, Amazon Sampling Card, Any flavor, SBS .010 C2S, 4"" x 6""",Inventory Item,U Line : Hydration : Sachets,No,Yes,,,,,,,,,,,,,,US
+RM0170-01,"MilkFlow, Raw Packet Film, 9x3 Continuous Feed, 695: White Cosmetic Web 350 HB",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,No,,,,,,,,,,,,,,US
+RP0001-01,"Instant Coffee, Robusta Coffee Beans, Spray Dried - H",Inventory Item,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,,,,,,,,,,,,,
+RP0005-01,"Kaneka Q30, 30% Ubiquinol Powder; Kaneka QH (Type No. P30U)",Inventory Item,UpSpring : VMS : Adult Supplements : Fertility,Yes,Yes,,,,,,,,,,,,,,
+RP0010-01,"Lactococcus (L) Lactis Strain Plasma Powder; 2800B Cell/G (Heat Killed), Kyowa Hakko USA",Inventory Item,UpSpring : VMS : Adult Supplements : Immunity,Yes,Yes,,,,,,,,,,,,,,JP
+SA0001-01,"Milkscreen Alcohol Test Strip, Single",Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,No,,0,,,,,,,,,,,,
+SA0001-01a,"Milkscreen Alcohol Test Strip, Single",Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,No,Yes,,0,,,,,,,,,,,,
+SA0005-01,"Micro-Encapsulated, Sabinsa Fenusterols",Assembly/Bill of Materials,,Yes,No,,0,,,,,,,,,,,,
+SA0010-01,"Classic Waist, Incision Care, Small, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,
+SA0010-02,"Classic Waist, Incision Care, Medium, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,
+SA0010-03,"Classic Waist, Incision Care, Large, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,
+SA0010-04,"Classic Waist, Incision Care, Small, Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0010-05,"Classic Waist, Incision Care, Medium, Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0010-06,"Classic Waist, Incision Care, Large,  Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-01,"High Waist, Incision Care, Small / Medium, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-02,"High Waist, Incision Care, Large / XLarge, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-03,"High Waist, Incision Care, 1X / 2X, Nude - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-04,"High Waist, Incision Care, Small / Medium, Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-05,"High Waist, Incision Care, Large / XLarge, Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0015-06,"High Waist, Incision Care, 1X / 2X, Black - CHINA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,
+SA0020-01,"High Waist, Compression Only, S/M (15""), Nude, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0020-02,"High Waist, Compression Only, L / XL (17""), Nude, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0020-03,"High Waist, Compression Only, 1X/2X (19""), Nude, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0020-04,"High Waist, Compression Only, S/M (15""), Black, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0020-05,"High Waist, Compression Only, L/XL (17""), Black, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0020-06,"High Waist, Compression Only, 1X/2X (19""), Black, Raw",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0025-01,"Stomach Settle, Lemon Ginger Hard Drop, Herbal Blend",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0025-02,"Stomach Settle, Mint Hard Drop, Herbal Blend",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0030-01,"Lock, Breast Pillow Small",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,CN
+SA0030-02,"Lock, Breast Pillow Medium",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,CN
+SA0030-03,"Lock, Breast Pillow Large",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,CN
+SA0030-04,"Lock, Breast Pillow X-Large",Inventory Item,Legacy UpSpring : (Old) Breast Pillow,No,Yes,,,,,,,,,,,,,,CN
+SA0035-01,"Prenatal Soft Gel Capsules, 30 Count Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,855520001811,0,,,,,,,,,,,,
+SA0035-02,"Prenatal Soft Gel Capsules, 30 Count Bottle, Reformulation, KD Pur",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,0,,,,,,,,,,,,
+SA0040-01,"Prenatal Tablets, 30 Count Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,0,,,,,,,,,,,,
+SA0045-01,"Probiotic+Colostrum, Single Stick-Pak",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,,0,,,,,,,,,,,,US
+SA0050-01,"UpSpring D3, Sample Bottle, 1.05 mL",Assembly/Bill of Materials,Legacy UpSpring : (Old) Child Supplements,Yes,Yes,,0,,,,,,,,,,,,US
+SA0055-01,"Milkflow, Drink Mix, Chai Tea, Single Sachet, 15 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,Yes,,0,,,,,,,,,,,,US
+SA0055-02,"Milkflow, Drink Mix, Berry, Single Sachet, 10 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,0,,,,,,,,,,,,US
+SA0055-03,"Milkflow, Drink Mix, Chocolate, Single Sachet, 15 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,0,,,,,,,,,,,,US
+SA0060-01,"Prenatal Gummy, 90 Count Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,0,,,,,,,,,,,,
+SA0065-01,"Milkflow Coffee Pod, 1-Serving, 2.24 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,0,,,,,,,,,,,,
+SA0070-01,"Prenatal Complete Soft-Gel Capsules, 90 ct Bottle",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,,0,,,,,,,,,,,,
+SA0075-01,"Milkflow Coffee Stick Pack, 1-Serving, 2.24 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,Yes,,0,,,,,,,,,,,,
+SA0080-01,"UpSpring, Facemask, Single, Adult Size",Assembly/Bill of Materials,Legacy UpSpring : (Old) Corporate,No,Yes,,0,,,,,,,,,,,,CN
+SA0080-02,"UpSpring, Facemask, Single, Child Size",Assembly/Bill of Materials,Legacy UpSpring : (Old) Corporate,No,Yes,,0,,,,,,,,,,,,CN
+SA0085-01,"Milkflow, Drink Mix, Berry + Electrolytes, Single Sachet, 10 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,0,,,,,6,,,,,,2106.90.9887,US
+SA0085-02,"Milkflow, Drink Mix, Chocolate + Electrolytes, Single Sachet, 15 g",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,0,,,,,6,,,,,,2106.90.9887,US
+SA0090-01,"C-PANTY, HIGH WAIST W/SILICONE, NUDE - XXS/XS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,CN
+SA0090-02,"C-PANTY, HIGH WAIST W/SILICONE, NUDE - S/M",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0090-03,"C-PANTY, HIGH WAIST W/SILICONE, NUDE - L/XL",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,CN
+SA0090-04,"C-PANTY, HIGH WAIST W/SILICONE, BLACK - XXS/XS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,Yes,,0,,,,,,,,,,,,CN
+SA0090-05,"C-PANTY, HIGH WAIST W/SILICONE, BLACK - S/M",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0090-06,"C-PANTY, HIGH WAIST W/SILICONE, BLACK - L/XL",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-01,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  NUDE - XXS/XS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-02,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  NUDE - S/M",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-03,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  NUDE L/XL",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-04,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  BLACK - XXS/XS",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-05,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  BLACK - S/M",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0095-06,"C-PANTY, HIGH WAIST COMPRESSION ONLY,  BLACK L/XL",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,No,No,,0,,,,,,,,,,,,CN
+SA0100-01,"U.Bloom, Fertility, Nest Collagen Drink Mix, Single Sachet, 13.7 g",Assembly/Bill of Materials,UpSpring : VMS : Adult Supplements : Fertility,Yes,Yes,,0,,,,,6,,,,,,,US
+SA0105-01,"U.Bloom, Fertility, Eggs Capsules, Single Glass Jar, 60 ct",Assembly/Bill of Materials,UpSpring : VMS : Adult Supplements : Fertility,Yes,Yes,,0,,,,,6,,,,,,,US
+SA0110-01,"U.Siip, Hydration,  Drink Mix, Citrus Ginger, Single Stickpack, 5.5 g",Assembly/Bill of Materials,U Line : Hydration : Sachets,Yes,Yes,,0,,,,,6,,,,,,,US
+SA0110-02,"U.Siip, Hydration,  Drink Mix, Lemon Lime, Single Stickpack, 5.5 g",Assembly/Bill of Materials,U Line : Hydration : Sachets,Yes,Yes,,0,,,,,6,,,,,,,US
+SA0115-01,"Post Op Medical, Cesarean Recovery C-Panty, with straps (XS/S) -- SELECTRA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,Yes,No,,0,,,,,,,,,,,,CN
+SA0115-02,"Post Op Medical, Cesarean Recovery C-Panty, with straps (M/L) -- SELECTRA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,Yes,No,,0,,,,,,,,,,,,CN
+SA0115-03,"Post Op Medical, Cesarean Recovery C-Panty, with straps (XL/1X) -- SELECTRA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,Yes,No,,0,,,,,,,,,,,,CN
+SA0115-04,"Post Op Medical, Cesarean Recovery C-Panty, with straps (2X/3X) -- SELECTRA",Assembly/Bill of Materials,Legacy UpSpring : (Old) C-Panty,Yes,No,,0,,,,,,,,,,,,CN
+SA0120-01,"Stomach Settle, Hard Drop, Lemon Ginger, 28 Count, Retail Pouch (single unit, no master)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0120-02,"Stomach Settle, Hard Drop, Mint, 28 Count, Retail Pouch (single unit, no master)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0120-03,"Stomach Settle Morning Sickness, Lemon Ginger, Hard Drops, 28 Ct, Retail Pouch (single unit, no master)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0120-04,"Stomach Settle, 10 ct Hard Drop, Lemon Ginger, Retail Pouch (single unit, no master)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,Yes,,0,,,,,,,,,,,,
+SA0120-05,"UpSpring, Stomach Settle, Hard Drop, Lemon Ginger, 55 Count, Retail Pouch (single unit, no master)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Adult Supplements : (Old) Adult Supplements - Other,Yes,No,,0,,,,,,,,,,,,
+Test Assembly,,Assembly/Bill of Materials,,No,Yes,,0,,,,,,,,,,678yhkjhl,,
+Test Component A,,Inventory Item,,No,Yes,,,,,,,,,6,12,6,;lkjlkj,,
+Test Component B,,Inventory Item,,No,Yes,,,,,,,,,,,,1sdgwthdf,,
+Test Component D,,Inventory Item,,No,Yes,,,,,,,,,,,,ja59fjkws73490680,,
+Test Componet C,,Inventory Item,,No,Yes,,,,,,,,,,,,ja;aaw9a0,,
+Test Item 2,,Inventory Item,,No,Yes,,5,,,,,,,12,12,12,121231231,,
+Test Sub Assembly,,Assembly/Bill of Materials,,No,Yes,,0,,,,,,,,,,trdbhn5374,,
+Tet Item 1,,Inventory Item,,No,Yes,,,,,,,,,,,,11111111,,
+XES0001-01,"ANC - MAXFLOW CHOCOLATE DRINK MIX, 20 PACKET",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XES0005-01,"ANC - MILKFLOW, FENUGREEK DRINK MIX, BERRY + ELECTROLYTES, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD, (AUS-NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XES0005-02,"ANC - MILKFLOW, FENUGREEK DRINK MIX, CHOCOLATE + ELECTROLYTES, 16 PACKET, PRODUCTION & PACKAGING, CONSIGNMENT BUILD, (AUS-NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XES0010-01,"ANC - MILKFLOW, CAPSULES, 100 COUNT, BOTTLE ONLY, PRODUCTION & PACKAGING, CONSIGNMENT BUILD, (AUS-NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+XFG0001-01,"MaxFlow, Supplement, 20-Pack, Chocolate, Drink Mix",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,.75,,,,,,,,,,,2106.90.9887,
+XFG0010-01,"UpSpring, Immunity, Gummies, 60 Cnt Bottle, 250ml PET --- (EU 6)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073219,,,,,,,,,,,11230000073216,,GB
+XFG0015-01,"UpSpring, Preconception, Tablets, 30 Cnt Blister Pack, Retail Carton --- (UK - DE - IT)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073226,,,,,,,,,,,11230000073223,,GB
+XFG0015-02,"UpSpring, Preconception, Tablets, 30 Cnt Blister Pack, Retail Carton --- (FR - SP - PL)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073264,,,,,,,,,,,11230000073261,,GB
+XFG0020-01,"UpSpring, Fertility Women, Gummies, 60 Cnt Bottle --- (EU 6)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073233,,,,,,,,,,,11230000073230,,GB
+XFG0025-01,"UpSpring, Fertility Men, Tablet, 15 Cnt Blister Pack --- (UK - DE)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073240,,,,,,,,,,,11230000073247,,GB
+XFG0025-02,"UpSpring, Fertility Men, Tablet, 15 Cnt Blister Pack --- (SP - IT)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073271,,,,,,,,,,,11230000073278,,GB
+XFG0030-01,"UpSpring, Prenatal Folic Acid & Multi-Vitamins, Tablets, 30 Cnt Bottle, Retail Carton --- (UK - DE - IT)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073257,,,,,,,,,,,11230000073254,,GB
+XFG0030-02,"UpSpring, Prenatal Folic Acid & Multi-Vitamins, Tablets, 30 Cnt Bottle, Retail Carton --- (FR - SP - PL)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073295,,,,,,,,,,,11230000073292,,GB
+XFG0035-01,"UpSpring, Prenatal DHA, Life Omega, Softgels, 60 Cnt Bottle, Retail Carton --- (UK - DE - IT)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073301,,,,,,,,,,,11230000073308,,GB
+XFG0035-02,"UpSpring, Prenatal DHA, Life Omega, Softgels, 60 Cnt Bottle, Retail Carton --- (FR - SP - PL)",Inventory Item,Legacy UpSpring : (Old) Adult Supplements,Yes,Yes,1230000073318,,,,,,,,,,,11230000073315,,GB
+XFG0040-01,"Milkflow Drink Mix, Fenugreek, Berry, 16 Cnt (electrolytes) --- (AU - NZ)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560781,.5,,4.6,4.6,3.1,6,3.44,10.25,10.25,5.75,10850008560108,2106.90.9887,US
+XFG0040-02,"Milkflow Drink Mix, Fenugreek, Chocolate, 16 Cnt (electrolytes) --- (AU - NZ)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,850008560798,.65,,4.6,4.6,3.1,6,4.525,10.25,10.25,5.75,10850008560115,2106.90.9887,US
+XFG0045-01,"Milkflow Capsules, Fenugreek, 100 Cnt, Bottle Only --- (AU - NZ)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,850008560804,.138,,2.75,4.5,2,6,1.10,9.25,4.75,6.5,10859188006949,2106.90.9898,US
+XFG0050-01,Milkscreen Alcohol 20-Pack --- (AU - NZ),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,850008560811,.1015,,2.75,4.5,1.5,6,0.825,9.375,4.75,3,10855520001085,3822.00.0000,US
+XFG0100-01,"Milkflow Drink Mix, Fenugreek, Berry, 16 Cnt (electrolytes) --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,056796006160,.5,,4.6,4.6,3.1,6,3.44,10.25,10.25,5.75,056796906163,2106.90.9887,US
+XFG0100-02,"Milkflow Drink Mix, Fenugreek, Chocolate, 16 Cnt (electrolytes) --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,056796006177,.65,,4.6,4.6,3.1,6,4.525,10.25,10.25,5.75,056796906170,2106.90.9887,US
+XFG0100-03,"Milkflow Drink Mix, Fenugreek, Berry, 10 Ct (electrolytes) --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,056796006474,.5,,4.57,2.4,3.11,6,0.850482,9,6,7,056796906477,2106.90.9887,US
+XFG0100-04,"Milkflow Drink Mix, Fenugreek, Chocolate, 10 Ct (electrolytes) --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,056796006467,.65,,4.57,2.4,3.11,6,1.105626,9,6,7,056796906460,2106.90.9887,US
+XFG0100-05,"Milkflow Drink Mix, Fenugreek, Orange Mango, 10 Ct (electrolytes) --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,Yes,No,,.65,,4.57,2.4,3.11,6,0.850482,9,6,7,,2106.90.9887,US
+XFG0105-01,"Milkflow Capsules, Fenugreek, 100 Cnt, Retail Carton --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,056796006153,.138,,2.75,4.5,2,6,1.10,9.25,4.75,6.5,056796906156,2106.90.9898,US
+XFG0105-02,"Milkflow Capsules, Fenugreek, 60 Ct, Retail Carton --- (CA)",Assembly/Bill of Materials,Legacy UpSpring : (Old) Milkflow,Yes,No,056796006481,.138,,2.75,4.5,2,6,1,9.25,4.75,6.5,056796906484,2106.90.9898,US
+XFG0110-01,Milkscreen Test for Alcohol in Breast Milk (8 Cnt) --- (CA),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,056796006146,.0645,,2.75,4.5,1.5,6,0.602,9.375,4.75,3,056796906149,3822.00.0000,US
+XFG0110-02,Milkscreen Test for Alcohol in Breast Milk (20 Cnt) --- (CA),Assembly/Bill of Materials,Legacy UpSpring : (Old) Alcohol,Yes,Yes,056796006139,.1015,,2.75,4.5,1.5,6,0.825,9.375,4.75,3,056796906132,3822.00.0000,US
+XRC0001-01,"MaxFlow, Fenugreek, Chocolate, 20-Packet, TTAB Carton",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0005-01,"Milkflow Drink Mix Fenugreek, Berry + Electrolytes, 16-Packet, Retail Carton (AUS - NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0005-02,"Milkflow Drink Mix Fenugreek, Chocolate + Electrolytes, 16-Packet, Retail Carton, (AUS - NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0010-01,"Milkflow Drink Mix Fenugreek, Berry + Electrolytes, 16-Packet, TTAB Carton --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0010-02,"Milkflow Drink Mix Fenugreek, Chocolate + Electrolytes, 16-Packet, TTAB Carton --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0010-03,"Milkflow Drink Mix Fenugreek, Berry + Electrolytes, 10-Packet, TTAB Carton --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0010-04,"Milkflow Drink Mix Fenugreek, Chocolate + Electrolytes, 10-Packet, TTAB Carton --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0010-05,"Milkflow Drink Mix Fenugreek, Orange Mango + Electrolytes, 10-Packet, TTAB Carton (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0015-01,"Milkflow, Capsules, 100 Count, TTAB Carton, SBS .018, 4.5 x 2.75  x 2.0 --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0015-02,"Milkflow, Capsules, 60 Count, TTAB Carton --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,US
+XRC0020-01,"Milkscreen, 8-Pack TTAB Carton, SBS .016, 4.5 x 2.75 x 1.5, 4CP + AQ --- (CA)",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,US
+XRC0020-02,"Milkscreen, 20-Pack TTAB Carton, SBS .016, 4.5 x 2.75 x 1.5, 4CP + AQ --- (CA)",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,US
+XRF0001-01,"Milkflow, Berry + Electrolytes, Singapore, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0001-02,"Milkflow, Chocolate + Electrolytes, Singapore, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0005-01,"MilkFlow, Fenugreek + Electrolytes, Berry, Mix Packet, (AUS - NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0005-02,"MilkFlow, Fenugreek + Electrolytes, Chocolate, Mix Packet, (AUS - NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0010-01,"MilkFlow, Fenugreek + Electrolytes, Berry, Mix Packet --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0010-02,"MilkFlow, Fenugreek + Electrolytes, Chocolate, Mix Packet --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRF0010-03,"MilkFlow, Fenugreek + Electrolytes, Orange Mango, Mix Packet --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
+XRG0001-01,"Guide, MSA, 8x12.5 Flat, 10 panel accordion fold to 2.5x8, English / French User Guide --- (CA)",Inventory Item,Legacy UpSpring : (Old) Alcohol,No,Yes,,,,,,,,,,,,,,
+XRI0001-02,"Insert, CP, High Waist Incision Care, Nude or Black, Generic, Multi-Language --- Amazon EU  (Selectra stock)",Inventory Item,,No,No,,,,,,,,,,,,,,
+XRI0005-02,"Insert, PB, High Waist Compression Only, Nude or Black, Generic, Multi-Language --- Amazon EU  (Selectra stock)",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+XRI0010-02,"Insert, CP, 2-Pack, High Waist Incision Care, Nude & Black, Generic, Multi-Language --- Amazon EU  (Selectra stock)",Inventory Item,,No,Yes,,,,,,,,,,,,,,
+XRI0015-01,"Insert, Shrinkx Hips Ultra, Generic, Poly Bag, Multi-Language (formerly RI0080-51-ML)",Inventory Item,Legacy UpSpring : (Old) Shrinkx Hips,No,Yes,,,,,,,,,,,,,,US
+XRL0001-01,"Milkflow, Capsules, Bottle Label, 100 Count (AUS - NZ)",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+XRL0005-01,"Milkflow, Capsules, Bottle Label, 120cc, 100 Count --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+XRL0005-02,"Milkflow, Capsules, Bottle Label, 60 Count --- (CA)",Inventory Item,Legacy UpSpring : (Old) Milkflow,No,Yes,,,,,,,,,,,,,,
+XRM0001-01,"MaxFlow, Fenugreek, Chocolate, Mix Packet",Inventory Item,Legacy UpSpring : (Old) Milkflow : (Old) Drink Mix,No,Yes,,,,,,,,,,,,,,
