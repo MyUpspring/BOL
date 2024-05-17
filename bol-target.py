@@ -7,6 +7,18 @@ from openpyxl.utils import get_column_letter
 from datetime import datetime
 
 
+import random
+
+def generate_random_numbers(n, m):
+    # Generate n random numbers
+    numbers = [random.uniform(0, 1) for _ in range(n)]
+    
+    # Normalize the numbers so their sum is m
+    s = sum(numbers)
+    numbers = [i/s * m for i in numbers]
+    
+    return numbers
+
 def csv_to_json(csv_file):
     """
     Convert a CSV file to a list of dictionaries.
@@ -46,6 +58,8 @@ for shipment in shipments_results:
         grouped_shipments_results[store_num] = []
     grouped_shipments_results[store_num].append(shipment)
 
+# print(grouped_shipments_results['0590'])
+
 grouped_item_list = {}
 for key in grouped_sales_orders.keys():
     for order in grouped_sales_orders[key]:
@@ -60,10 +74,10 @@ grouped_sales_orders_with_shipments_results = {}
 for key in grouped_sales_orders.keys():
     grouped_sales_orders_with_shipments_results[key] = {
         'sales_orders': grouped_sales_orders[key], 
-        'shipments_results': grouped_shipments_results[store_num], 
-        'item_list': grouped_item_list[store_num]
+        'shipments_results': grouped_shipments_results[key], 
+        'item_list': grouped_item_list[key]
     }
-
+# print(grouped_sales_orders_with_shipments_results['0590'])
 # Now we can write the grouped_routing_status_by_dest to the excel file
 # we copy the template.xlsx to the new file with the name 'BOL-{PO Dest}.xlsx'
 
@@ -76,6 +90,7 @@ if not os.path.exists(folder_name):
 print("There are {} store numbers so should have the same amount of BOL files".format(len(grouped_sales_orders_with_shipments_results.keys())))
 for key in grouped_sales_orders_with_shipments_results.keys():
     single_sales_orders_with_shipments_results_dict = grouped_sales_orders_with_shipments_results.get(key, {})
+    # print(single_sales_orders_with_shipments_results_dict)
     file_name = 'BOL-{}-target.xlsx'.format(key)
     file_path = "{}/{}".format(folder_name, file_name)
     shutil.copy('template/template-target.xlsx', file_path)
@@ -119,31 +134,31 @@ for key in grouped_sales_orders_with_shipments_results.keys():
         grouped_item_list = single_sales_orders_with_shipments_results_dict.get('item_list', [])
         row = 32
 
-        for item in grouped_item_list:
-            item_name = item.get('Name', '')
-            # print(item_name)
-            handle_unit_quantity = 0
-            weight = 0
-            # line_cube = 0
-            item_cases = 0
-            weight_by_po_number = {}
-            for sales_order in sales_orders_list:
-                if item_name == sales_order['itemJoin_itemId0_searchValue']:
-                    handle_unit_quantity = int(sales_order['basic_quantity0_searchValue']) #should be correct
-                    item_cases = int(handle_unit_quantity / int(item['Package Quantity']))
-                    weight =  float(sales_order['itemJoin_weight0_searchValue'])*int(sales_order['basic_quantity0_searchValue'])
-                    break
-            ws['{}{}'.format('A', row)] = int(handle_unit_quantity)
-            ws['{}{}'.format('B', row)] = 'Units'
-            ws['{}{}'.format('C', row)] = int(item_cases)
-            ws['{}{}'.format('D', row)] = 'Carton'
-            ws['{}{}'.format('E', row)] =  weight 
-            ws['{}{}'.format('G', row)] = "{} {}".format(item.get('Name', ''),item.get('Display Name', ''))
+        random_weights = generate_random_numbers(len(sales_orders_list), int(shipments_results_list[0].get('Weight', '')))    
         
+        for sales_order in sales_orders_list:
+            handle_unit_quantity = int(sales_order['basic_quantity0_searchValue'])
+            item_cases = 0
+            display_name = sales_order['itemJoin_itemId0_searchValue']
+            for item in grouped_item_list:
+                if item.get('Name', '') == sales_order['itemJoin_itemId0_searchValue']:
+                    display_name += " {}".format(item.get('Display Name', '')) 
+                    item_cases = int(handle_unit_quantity / int(item['Package Quantity']))
+
+            ws['{}{}'.format('A', row)] = handle_unit_quantity
+            ws['{}{}'.format('B', row)] = 'Units'
+            ws['{}{}'.format('C', row)] = item_cases
+            ws['{}{}'.format('D', row)] = 'Carton'
+            ws['{}{}'.format('E', row)] = random_weights[row - 32] 
+            ws['{}{}'.format('G', row)] = display_name
+            
             row += 1
+
+        
 
     
     wb.save(file_path)
-    break
+    
+    
 
     
