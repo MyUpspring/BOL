@@ -26,7 +26,7 @@ sales_orders = csv_to_json('daily-data/open_sales_orders.csv')
 # Filter sales orders for a specific customer
 sales_orders = filter_orders_by_customer(sales_orders, 'Wal-Mart')
 
-routing_status = csv_to_json('daily-data/routing_status.csv')
+routing_status = csv_to_json('daily-data/walmart_routing_status.csv')
 
 item_list = csv_to_json('daily-data/item_list.csv')
 
@@ -85,7 +85,7 @@ for key in grouped_routing_status_by_dest.keys():
     if key in empty_order_po_num_for_dest:
         continue
     single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
-    file_name = 'BOL-{}.xlsx'.format(key)
+    file_name = 'BOL-{}-walmart.xlsx'.format(key)
     file_path = "{}/{}".format(folder_name, file_name)
     shutil.copy('template/template-walmart.xlsx', file_path)
     wb = openpyxl.load_workbook(file_path)
