@@ -90,14 +90,18 @@ for key in grouped_routing_status_by_dest.keys():
     shutil.copy('template/template-walmart.xlsx', file_path)
     wb = openpyxl.load_workbook(file_path)
     ws = wb['Sheet1']
-    # Insert spreadsheet's sheet1's B1 cell with the value today's date with format `mm/dd/yyyy`
-    ws['B1'] = datetime.now().strftime('%m/%d/%Y')
-    # Insert spreadsheet's sheet1's J2 cell with the routing_status's Load ID value
+    
     
     routing_status_list = single_grouped_routing_status_dict.get('routing_status', [])
     
     if len(routing_status_list) > 0:
+
+        # Insert spreadsheet's sheet1's B1 cell with the value today's date with format `mm/dd/yyyy`
+        ws['B1'] = routing_status_list[0].get('Carrier PU Date', '')
+
+        # Insert spreadsheet's sheet1's J2 cell with the routing_status's Load ID value
         ws['J2'] = routing_status_list[0].get('Load ID', '')
+
         # Insert spreadsheet's sheet1's J3 cell with the routing_status's Load ID value
         ws['J3'] = routing_status_list[0].get('Load ID', '')
 
