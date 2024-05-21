@@ -21,6 +21,40 @@ def filter_orders_by_customer(orders, customer_name):
     """
     return [order for order in orders if order['customerJoin_entityId0_searchValue'] == customer_name]
 
+# summarize the total quantity, total cases, total weight, and description of the item by its name
+def group_all_items_property_by_item_name(grouped_routing_status_by_dest):
+    item_property_by_name = {}
+    for key in grouped_routing_status_by_dest.keys():
+        single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
+        grouped_item_list = single_grouped_routing_status_dict.get('item_list', [])
+        grouped_sales_order = single_grouped_routing_status_dict.get('sales_orders', [])
+        
+        for sales_order in grouped_sales_order:
+            handle_unit_quantity = 0
+            weight = 0
+            item_cases = 0
+            item_id = sales_order['itemJoin_itemId0_searchValue']
+            
+            if item_id not in item_property_by_name:
+                item_property_by_name[item_id] = {'total_quantity': 0, 'total_cases': 0, 'total_weight': 0, 'description': ''}
+            else: 
+                for item in grouped_item_list:
+                    # if item['Name'] == 'FG0300-13':
+                    #     print("Item:{}".format(item))
+                    #     print("Sales Order:{}".format(sales_order))
+                    if item_id == item['Name']:
+                        handle_unit_quantity = int(sales_order['basic_quantity0_searchValue'])
+                        item_cases = int(handle_unit_quantity / int(item['Package Quantity']))
+                        weight =  float(sales_order['itemJoin_weight0_searchValue'])*int(sales_order['basic_quantity0_searchValue'])
+                        item_property_by_name[item_id]['total_quantity'] += handle_unit_quantity
+                        item_property_by_name[item_id]['total_cases'] += item_cases
+                        item_property_by_name[item_id]['total_weight'] += weight
+                        item_property_by_name[item_id]['description'] = "{} {}".format(item.get('Name', ''),item.get('Display Name', ''))
+                        break
+                
+                # print("{}:{}".format(item_id, item_property_by_name[item_id]))
+        
+    return item_property_by_name
 
 def generate_master_bol_first_page(folder_name, grouped_routing_status_by_dest):
     # set up for the wal-mart's master BOL file
@@ -29,6 +63,81 @@ def generate_master_bol_first_page(folder_name, grouped_routing_status_by_dest):
     wb_master_bol = openpyxl.load_workbook(master_bol_file_path)
     ws_master_bol = wb_master_bol['Sheet1']
 
+    load_id = ''
+    for key in grouped_routing_status_by_dest.keys():
+        # key = '6054'
+        single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
+        routing_status_list = single_grouped_routing_status_dict.get('routing_status', [])
+        if len(routing_status_list) > 0:
+
+            # Insert spreadsheet's sheet1's B1 cell with the value today's date with format `mm/dd/yyyy`
+            ws_master_bol['A1'] = "DATE: {}".format(routing_status_list[0].get('Carrier PU Date', ''))
+            load_id = routing_status_list[0].get('Load ID', '')
+            # Insert spreadsheet's sheet1's J2 cell with the routing_status's Load ID value
+            ws_master_bol['F3'] = "LOAD NUMBER: ".format(load_id)
+
+            ws_master_bol['F5'] = "CARRIER NAME: {}".format(routing_status_list[0].get('Carrier Name', ''))
+            # insert spreadsheet's sheet1's H11 cell with the routing_status's Industry SCAC value
+            ws_master_bol['F7'] = "SCAC: {}".format(routing_status_list[0].get('Industry SCAC', ''))
+
+            sales_orders_list = single_grouped_routing_status_dict.get('sales_orders', [])
+            if len(sales_orders_list) > 0:
+                ws_master_bol['A12'] = sales_orders_list[0].get('shippingAddressJoin_addressee0_searchValue', '')
+                # Insert spreadsheet's sheet1's A10 cell with the sales'order's shippingAddressJoin_address1_searchValue value
+                ws_master_bol['A13'] = sales_orders_list[0].get('shippingAddressJoin_address10_searchValue', '')
+                # Insert spreadsheet's sheet1's A11 cell with the sales'order's shippingAddressJoin_city0_searchValue, shippingAddressJoin_city0_searchValue shippingAddressJoin_zip0_searchValue  combined value
+                ws_master_bol['A14'] = '{}, {} {}'.format(sales_orders_list[0].get('shippingAddressJoin_city0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_state0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_zip0_searchValue', ''))
+            
+        break
+
+    
+    item_property_by_name = group_all_items_property_by_item_name(grouped_routing_status_by_dest)
+
+    row = 25
+    for key in item_property_by_name.keys():
+        item = item_property_by_name.get(key, {})
+        handle_unit_quantity = item.get('total_quantity', 0)
+        weight = item.get('total_weight', 0)
+        item_cases = item.get('total_cases', 0)
+        ws_master_bol['{}{}'.format('A', row)] = int(handle_unit_quantity)
+        ws_master_bol['{}{}'.format('B', row)] = 'Unit'
+        ws_master_bol['{}{}'.format('C', row)] = int(item_cases)
+        ws_master_bol['{}{}'.format('D', row)] = 'Carton'
+        ws_master_bol['{}{}'.format('E', row)] =  int(weight)
+        print(item.get('description', ''))
+        ws_master_bol['{}{}'.format('G', row)] = item.get('description', '')
+    
+        row += 1
+
+    # set up the row 55 to the 
+    row = 56
+    for key in grouped_routing_status_by_dest.keys():
+        single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
+        routing_status_list = single_grouped_routing_status_dict.get('routing_status', [])
+        num_of_pkgs = 0
+        total_weight = 0
+        for rs in routing_status_list:
+            num_of_pkgs += int(rs.get('Cases', ''))
+            total_weight += float(rs.get('Weight', ''))
+            
+        ws_master_bol['{}{}'.format('A', row)] = int(routing_status_list[0].get('PO Number', ''))
+        ws_master_bol['{}{}'.format('C', row)] = num_of_pkgs
+        ws_master_bol['{}{}'.format('D', row)] = total_weight
+        ws_master_bol['{}{}'.format('E', row)] = 'Y/N'
+        ws_master_bol['{}{}'.format('F', row)] = routing_status_list[0].get('MABD', '')
+        ws_master_bol['{}{}'.format('G', row)] = int(routing_status_list[0].get('PO Dest', ''))
+        ws_master_bol['{}{}'.format('H', row)] = int(routing_status_list[0].get('PO Type', ''))
+        ws_master_bol['{}{}'.format('I', row)] = int(routing_status_list[0].get('Department', ''))
+        
+        row += 1
+
+    wb_master_bol.save(master_bol_file_path)
+
+    # rename this file to BOL-master-walmart-2nd-page-{Load Id}.xlsx
+    new_master_bol_file_path = "{}/BOL-master-walmart-bol-{}.xlsx".format(folder_name, load_id)
+    os.rename(master_bol_file_path, new_master_bol_file_path)
+
+    return len(grouped_routing_status_by_dest.keys()) > 12     
 
 
 # set up the 2nd page of wal-mart's master BOL file
@@ -121,7 +230,7 @@ def generate_individual_bol_grouped_by_dest(folder_name, grouped_routing_status_
                 # Insert spreadsheet's sheet1's A11 cell with the sales'order's shippingAddressJoin_city0_searchValue, shippingAddressJoin_city0_searchValue shippingAddressJoin_zip0_searchValue  combined value
                 ws['A11'] = '{}, {} {}'.format(sales_orders_list[0].get('shippingAddressJoin_city0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_state0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_zip0_searchValue', ''))
             
-            
+            grouped_item_list = single_grouped_routing_status_dict.get('item_list', [])
             row = 23
             for rs in routing_status_list:
                 ws['{}{}'.format('A', row)] = rs.get('PO Number', '')
@@ -147,18 +256,14 @@ def generate_individual_bol_grouped_by_dest(folder_name, grouped_routing_status_
 
             for item in grouped_item_list:
                 item_name = item.get('Name', '')
-                # print(item_name)
                 handle_unit_quantity = 0
                 weight = 0
-                # line_cube = 0
                 item_cases = 0
-                weight_by_po_number = {}
                 for sales_order in grouped_sales_order:
                     if item_name == sales_order['itemJoin_itemId0_searchValue']:
                         handle_unit_quantity = int(sales_order['basic_quantity0_searchValue']) #should be correct
                         item_cases = int(handle_unit_quantity / int(item['Package Quantity']))
                         weight =  float(sales_order['itemJoin_weight0_searchValue'])*int(sales_order['basic_quantity0_searchValue'])
-                        # line_cube = sales_order['custitem_height']*sales_order['custitem_length']*sales_order['custitem_width']/1728*sales_order['basic_quantity0_searchValue']/sales_order['custitem_hj_tc_autopackquantity']
                         break
                 ws['{}{}'.format('A', row)] = int(handle_unit_quantity)
                 ws['{}{}'.format('B', row)] = 'Units'
@@ -230,14 +335,17 @@ def setup():
 
 if __name__ == '__main__':
     grouped_routing_status_by_dest = setup()
+
+    # result = group_all_items_property_by_item_name(grouped_routing_status_by_dest)
+    # print(result)
     
     today = datetime.now().strftime('%Y-%m-%d')
     folder_name = "walmart-{}".format(today)
     if not os.path.exists(folder_name):
         os.mkdir(folder_name)
     
-    # generate_master_bol_first_page(folder_name, grouped_routing_status_by_dest)
-    generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
+    if (generate_master_bol_first_page(folder_name, grouped_routing_status_by_dest)):
+        generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
     # generate_individual_bol_grouped_by_dest(folder_name, grouped_routing_status_by_dest)
     
     print("Done")
