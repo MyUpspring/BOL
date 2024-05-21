@@ -47,6 +47,7 @@ def generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
     row = 5
     load_id = ''
     carrier_pu_date = ''
+    print("There are {} destinations so should have the same amount rows".format(len(grouped_routing_status_by_dest.keys())))
     for key in grouped_routing_status_by_dest.keys():
         single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
         routing_status_list = single_grouped_routing_status_dict.get('routing_status', [])
@@ -62,7 +63,7 @@ def generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
         ws_master_bol_second_page['{}{}'.format('C', row)] = num_of_pkgs
         ws_master_bol_second_page['{}{}'.format('D', row)] = total_weight
         ws_master_bol_second_page['{}{}'.format('E', row)] = 'Y/N'
-        ws_master_bol_second_page['{}{}'.format('F', row)] = int(routing_status_list[0].get('MABD', ''))
+        ws_master_bol_second_page['{}{}'.format('F', row)] = routing_status_list[0].get('MABD', '')
         ws_master_bol_second_page['{}{}'.format('G', row)] = int(routing_status_list[0].get('PO Dest', ''))
         ws_master_bol_second_page['{}{}'.format('H', row)] = int(routing_status_list[0].get('PO Type', ''))
         ws_master_bol_second_page['{}{}'.format('I', row)] = int(routing_status_list[0].get('Department', ''))
