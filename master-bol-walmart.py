@@ -191,94 +191,6 @@ def generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
     os.rename(master_bol_second_page_file_path, new_master_bol_second_page_file_path)
 
 
-def generate_individual_bol_grouped_by_dest(folder_name, grouped_routing_status_by_dest):
-    print("There are {} destinations so should have the same amount of BOL files".format(len(grouped_routing_status_by_dest.keys())))
-    for key in grouped_routing_status_by_dest.keys():
-        # key = '6054'
-        single_grouped_routing_status_dict = grouped_routing_status_by_dest.get(key, {})
-        file_name = 'BOL-{}-walmart.xlsx'.format(key)
-        file_path = "{}/{}".format(folder_name, file_name)
-        shutil.copy('template/template-walmart.xlsx', file_path)
-        wb = openpyxl.load_workbook(file_path)
-        ws = wb['Sheet1']
-        
-        
-        routing_status_list = single_grouped_routing_status_dict.get('routing_status', [])
-        
-        if len(routing_status_list) > 0:
-
-            # Insert spreadsheet's sheet1's B1 cell with the value today's date with format `mm/dd/yyyy`
-            ws['B1'] = routing_status_list[0].get('Carrier PU Date', '')
-
-            # Insert spreadsheet's sheet1's J2 cell with the routing_status's Load ID value
-            ws['J2'] = routing_status_list[0].get('Load ID', '')
-
-            # Insert spreadsheet's sheet1's J3 cell with the routing_status's Load ID value
-            ws['J3'] = routing_status_list[0].get('Load ID', '')
-
-            # Insert spreadsheet's sheet1's H8 cell with the routing_status's Carrier Name value
-            ws['H8'] = "CARRIER NAME: {}".format(routing_status_list[0].get('Carrier Name', ''))
-            # insert spreadsheet's sheet1's H11 cell with the routing_status's Industry SCAC value
-            ws['H11'] = "SCAC: {}".format(routing_status_list[0].get('Industry SCAC', ''))
-            
-            # Insert spreadsheet's sheet1's A9 cell with the sales'order's shippingAddressJoin_addressee0_searchValue value
-            sales_orders_list = single_grouped_routing_status_dict.get('sales_orders', [])
-            if len(sales_orders_list) > 0:
-                ws['A9'] = sales_orders_list[0].get('shippingAddressJoin_addressee0_searchValue', '')
-                # Insert spreadsheet's sheet1's A10 cell with the sales'order's shippingAddressJoin_address1_searchValue value
-                ws['A10'] = sales_orders_list[0].get('shippingAddressJoin_address10_searchValue', '')
-                # Insert spreadsheet's sheet1's A11 cell with the sales'order's shippingAddressJoin_city0_searchValue, shippingAddressJoin_city0_searchValue shippingAddressJoin_zip0_searchValue  combined value
-                ws['A11'] = '{}, {} {}'.format(sales_orders_list[0].get('shippingAddressJoin_city0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_state0_searchValue', ''), sales_orders_list[0].get('shippingAddressJoin_zip0_searchValue', ''))
-            
-            grouped_item_list = single_grouped_routing_status_dict.get('item_list', [])
-            row = 23
-            for rs in routing_status_list:
-                ws['{}{}'.format('A', row)] = rs.get('PO Number', '')
-                total_weight_by_po_number = 0
-                for sales_order in sales_orders_list:
-                    if rs.get('PO Number', '') == sales_order.get('basic_otherRefNum0_searchValue', ''):
-                        for item in grouped_item_list:
-                            if item.get('Name', '') == sales_order.get('itemJoin_itemId0_searchValue', ''):
-                                total_weight_by_po_number += float(sales_order.get('itemJoin_weight0_searchValue', '')) *int(sales_order['basic_quantity0_searchValue'])
-            
-                ws['{}{}'.format('D', row)] = int(rs.get('Cases', ''))
-                ws['{}{}'.format('E', row)] = total_weight_by_po_number #rs.get('Weight', '')
-                ws['{}{}'.format('G', row)] = rs.get('MABD', '')
-                ws['B1'] = rs.get('MABD', '')
-                ws['{}{}'.format('H', row)] = rs.get('PO Dest', '')
-                ws['{}{}'.format('I', row)] = rs.get('PO Type', '')
-                ws['{}{}'.format('J', row)] = rs.get('Department', '')
-                row += 1
-
-            grouped_item_list = single_grouped_routing_status_dict.get('item_list', [])
-            grouped_sales_order = single_grouped_routing_status_dict.get('sales_orders', [])
-            row = 32
-
-            for item in grouped_item_list:
-                item_name = item.get('Name', '')
-                handle_unit_quantity = 0
-                weight = 0
-                item_cases = 0
-                for sales_order in grouped_sales_order:
-                    if item_name == sales_order['itemJoin_itemId0_searchValue']:
-                        handle_unit_quantity = int(sales_order['basic_quantity0_searchValue']) #should be correct
-                        item_cases = int(handle_unit_quantity / int(item['Package Quantity']))
-                        weight =  float(sales_order['itemJoin_weight0_searchValue'])*int(sales_order['basic_quantity0_searchValue'])
-                        break
-                ws['{}{}'.format('A', row)] = int(handle_unit_quantity)
-                ws['{}{}'.format('B', row)] = 'Units'
-                ws['{}{}'.format('C', row)] = int(item_cases)
-                ws['{}{}'.format('D', row)] = 'Carton'
-                ws['{}{}'.format('E', row)] =  weight 
-                ws['{}{}'.format('G', row)] = "{} {}".format(item.get('Name', ''),item.get('Display Name', ''))
-            
-                row += 1
-
-        
-        wb.save(file_path)
-
-
-
 def setup():
 
     sales_orders = csv_to_json('daily-data/open_sales_orders.csv')
@@ -336,12 +248,16 @@ def setup():
 if __name__ == '__main__':
     grouped_routing_status_by_dest = setup()
 
+    # result = group_all_items_property_by_item_name(grouped_routing_status_by_dest)
+    # print(result)
+    
     today = datetime.now().strftime('%Y-%m-%d')
     folder_name = "walmart-{}".format(today)
     if not os.path.exists(folder_name):
         os.mkdir(folder_name)
     
-    generate_individual_bol_grouped_by_dest(folder_name, grouped_routing_status_by_dest)
+    if (generate_master_bol_first_page(folder_name, grouped_routing_status_by_dest)):
+        generate_master_bol_second_page(folder_name, grouped_routing_status_by_dest)
     
     print("Done")
     
