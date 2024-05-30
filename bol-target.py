@@ -38,7 +38,7 @@ sales_orders = csv_to_json('daily-data/open_sales_orders.csv')
 # Filter sales orders for a specific customer
 sales_orders = filter_orders_by_customer(sales_orders, 'Target')
 
-shipments_results = csv_to_json('daily-data/target_shipments_results.csv')
+shipments_results = csv_to_json('daily-data/target/target_shipments_results.csv')
 
 item_list = csv_to_json('daily-data/item_list.csv')
 

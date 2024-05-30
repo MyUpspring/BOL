@@ -286,7 +286,7 @@ def setup():
     # Filter sales orders for a specific customer
     sales_orders = filter_orders_by_customer(sales_orders, 'Wal-Mart')
 
-    routing_status = csv_to_json('daily-data/walmart_routing_status.csv')
+    routing_status = csv_to_json('daily-data/walmart/walmart_routing_status.csv')
 
     item_list = csv_to_json('daily-data/item_list.csv')
 
